@@ -1,0 +1,56 @@
+{
+  "id": "krafton-inzoi",
+  "name": "inZOI",
+  "publisher": "KRAFTON",
+  "adapter": "krafton-inzoi",
+  "enabled": true,
+  "outputFile": "inzoi.xml",
+
+  "feedMeta": {
+    "title": "inZOI News (pt-br)",
+    "description": "Últimas notícias do inZOI — feed gerado automaticamente a partir da API oficial da KRAFTON. Inclui patch notes, anúncios, novos itens e mais.",
+    "link": "https://playinzoi.com/pt-br/news",
+    "language": "pt-br",
+    "feedUrl": "https://carolslima.github.io/game-rss/inzoi.xml",
+    "generator": "Game RSS Multi-Source Generator",
+    "image": {
+      "url": "https://playinzoi.com/favicon.ico",
+      "title": "inZOI",
+      "link": "https://playinzoi.com"
+    }
+  },
+
+  "history": { "maxPosts": 300 },
+  "fetch": { "timeoutMs": 30000, "maxRetries": 3, "retryBaseDelayMs": 1000 },
+
+  "discord": {
+    "webhookSecretName": "DISCORD_WEBHOOK_INZOI",
+    "color": 5763719,
+    "username": "inZOI News Bot",
+    "avatarUrl": "https://playinzoi.com/favicon.ico"
+  },
+
+  "options": {
+    "apiBase": "https://api-foc.krafton.com/content/post/news",
+    "apiParams": "lang=pt-br&searchType=TITLE_AND_CONTENT",
+    "apiPageSize": 20,
+    "maxPages": 50,
+    "namespaceFallback": "inZOI_Official-24ea",
+    "gameFallback": "inzoi",
+    "discoveryUrl": "https://playinzoi.com/pt-br/news",
+    "urlTemplate": "https://playinzoi.com/{lang}/news/{postId}",
+    "apiHeaders": {
+      "Origin": "https://playinzoi.com",
+      "Referer": "https://playinzoi.com/pt-br/news"
+    },
+    "categoryLabels": {
+      "patch_note": "Patch Note",
+      "new_items": "Novos Itens",
+      "announcement": "Anúncio",
+      "event": "Evento",
+      "update": "Atualização",
+      "news": "Notícia",
+      "kjuns_letter": "Carta do Kjun"
+    }
+  }
+}

@@ -1,0 +1,85 @@
+# =============================================================================
+# Game RSS — Update All Feeds
+# =============================================================================
+# Gera RSS de todos os jogos configurados, commita mudanças no main e
+# notifica Discord quando houver novidades.
+# O deploy para GitHub Pages é feito pelo deploy-pages.yml.
+# =============================================================================
+
+name: Update RSS Feeds
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+    paths:
+      - "lib/**"
+      - "config/**"
+      - ".github/workflows/update-rss.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: "rss-update"
+  cancel-in-progress: true
+
+jobs:
+  update:
+    name: Generate All RSS Feeds
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      # -------------------------------------------------------------------
+      # 1. Checkout
+      # -------------------------------------------------------------------
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          persist-credentials: true
+
+      # -------------------------------------------------------------------
+      # 2. Setup Node.js 22
+      # -------------------------------------------------------------------
+      - name: Setup Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      # -------------------------------------------------------------------
+      # 3. Gerar todos os RSS
+      # -------------------------------------------------------------------
+      - name: Run orchestrator
+        env:
+          DISCORD_WEBHOOK_INZOI: ${{ secrets.DISCORD_WEBHOOK_INZOI }}
+          DISCORD_WEBHOOK_SIMS4: ${{ secrets.DISCORD_WEBHOOK_SIMS4 }}
+          DISCORD_WEBHOOK_PARALIVES: ${{ secrets.DISCORD_WEBHOOK_PARALIVES }}
+          KRAFTON_NAMESPACE: ${{ secrets.KRAFTON_NAMESPACE }}
+          KRAFTON_GAME: ${{ secrets.KRAFTON_GAME }}
+        run: node lib/orchestrator.js
+
+      # -------------------------------------------------------------------
+      # 4. Commitar mudanças no main
+      # -------------------------------------------------------------------
+      - name: Commit changes to main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Stage todos os feeds e históricos
+          git add public/*.xml data/*.json 2>/dev/null || true
+
+          if [ -n "$(git diff --staged --name-only)" ]; then
+            git commit -m "chore: atualizar feeds RSS [$(date -u +'%Y-%m-%d %H:%M UTC')]" || true
+            git push
+            echo "✅ Commit e push no main"
+          else
+            echo "⏭️ Nenhuma mudança — pulando commit"
+          fi

@@ -1,0 +1,16 @@
+{
+  "name": "game-rss",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Motor genérico de feeds RSS multi-jogos com suporte a múltiplos idiomas e notificações Discord. Suporta inZOI, The Sims 4, Paralives e extensível para qualquer jogo.",
+  "scripts": {
+    "generate": "node lib/orchestrator.js",
+    "start": "node lib/orchestrator.js"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "keywords": ["rss", "games", "feed", "discord", "github-actions", "multi-language"],
+  "license": "MIT"
+}

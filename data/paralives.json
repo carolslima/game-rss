@@ -1,0 +1,122 @@
+[
+  {
+    "id": "712279347386388526",
+    "title": "New Patch is Out Now! 0.1.5",
+    "description": "our latest patch is out with more bug fixes and improvements, update your game now 🫵 Read the full Patch Notes here: https://store.steampowered.com/news/app/1118520/view/712279347386388524",
+    "category": "patch_note",
+    "categoryLabel": "Patch Note",
+    "pubDate": "Thu, 02 Jul 2026 17:07:32 +0000",
+    "thumbnail": "https://clan.fastly.steamstatic.com/images/36095985/c16ce8096b0417766f04fd24f3e83c79ca66bff3.png",
+    "link": "https://store.steampowered.com/news/app/1118520/view/712279347386388526",
+    "guid": "https://store.steampowered.com/news/app/1118520/view/712279347386388526",
+    "addedAt": "2026-07-03T01:14:37.078Z"
+  },
+  {
+    "id": "712279347386388524",
+    "title": "Patch Notes 0.1.5",
+    "description": "New Smaller save files: New save files will now be 30MB in average instead of 500MB. Multiple autosaves: The autosave feature will now keep the 3 last versions of each save file, allowing players to go back to a previous version in the Load Game menu. Steam Cloud: Save files can now be synced on Steam Cloud to easily continue playing on a different computer. Lot Changes: Players can now revert lots to their original look. Paramaker Music: When zoomed-in, the music changes to a simpler, softer...",
+    "category": "patch_note",
+    "categoryLabel": "Patch Note",
+    "pubDate": "Thu, 02 Jul 2026 17:01:25 +0000",
+    "thumbnail": null,
+    "link": "https://store.steampowered.com/news/app/1118520/view/712279347386388524",
+    "guid": "https://store.steampowered.com/news/app/1118520/view/712279347386388524",
+    "addedAt": "2026-07-03T01:14:37.078Z"
+  },
+  {
+    "id": "712279347386385604",
+    "title": "Known Issue [Mac]",
+    "description": "Some Mac users have experienced issues opening their Saved games for a few hours between June 25 and June 26. If you were affected, this issue can be fixed and your saves restored by deleting this folder: ~/Library/Application Support/Paralives/Paralives/ ➡️ If you have any new saves that you made in the meantime that you want to keep, make sure to transfer them from ~/Library/Application Support/Paralives/Paralives/MySavedGames.mod to ~/Library/Application Support/com.Paralives.Paralives/MyS...",
+    "category": "known_issue",
+    "categoryLabel": "Known Issue",
+    "pubDate": "Fri, 26 Jun 2026 19:43:58 +0000",
+    "thumbnail": "https://clan.fastly.steamstatic.com/images/36095985/cc34f2b63407e8f9a6ef67727a56efe1914532a2.png",
+    "link": "https://store.steampowered.com/news/app/1118520/view/712279347386385604",
+    "guid": "https://store.steampowered.com/news/app/1118520/view/712279347386385604",
+    "addedAt": "2026-07-03T01:14:37.079Z"
+  },
+  {
+    "id": "712279347386385015",
+    "title": "☀️ Steam Summer Sale on Now!",
+    "description": "🌞 it’s finally warm out and our favourite summertime activity is… playing Paralives! get Paralives at a 20% discount now through July 9th during the Steam Summer Sale! 🌴",
+    "category": "sale",
+    "categoryLabel": "Sale",
+    "pubDate": "Thu, 25 Jun 2026 17:21:18 +0000",
+    "thumbnail": "https://clan.fastly.steamstatic.com/images/36095985/c0b1ea9f35cd1b6019a22f6470655cdcc14fd6cd.png",
+    "link": "https://store.steampowered.com/news/app/1118520/view/712279347386385015",
+    "guid": "https://store.steampowered.com/news/app/1118520/view/712279347386385015",
+    "addedAt": "2026-07-03T01:14:37.079Z"
+  },
+  {
+    "id": "712279347386384638",
+    "title": "1,000,000 COPIES SOLD 🎉🎉",
+    "description": "we’re incredibly grateful for all of your support, reviews, and feedback this past month! thank you a million times ❤️",
+    "category": "milestone",
+    "categoryLabel": "Milestone",
+    "pubDate": "Wed, 24 Jun 2026 13:43:37 +0000",
+    "thumbnail": "https://clan.fastly.steamstatic.com/images/36095985/dcf453910724b38c91d13c29026854d8709b0651.png",
+    "link": "https://store.steampowered.com/news/app/1118520/view/712279347386384638",
+    "guid": "https://store.steampowered.com/news/app/1118520/view/712279347386384638",
+    "addedAt": "2026-07-03T01:14:37.079Z"
+  },
+  {
+    "id": "679627615118560427",
+    "title": "Hotfix 0.1.4b",
+    "description": "Fixed an issue where players would not be able to see or load any existing save files.",
+    "category": "patch_note",
+    "categoryLabel": "Patch Note",
+    "pubDate": "Fri, 19 Jun 2026 18:32:22 +0000",
+    "thumbnail": null,
+    "link": "https://store.steampowered.com/news/app/1118520/view/679627615118560427",
+    "guid": "https://store.steampowered.com/news/app/1118520/view/679627615118560427",
+    "addedAt": "2026-07-03T01:14:37.079Z"
+  },
+  {
+    "id": "679627615118560032",
+    "title": "New Patch Out Now! 0.1.4",
+    "description": "our latest patch is out ( ◡̀ ᴗ ◡́)و update your game and check out our known issues! Read the full Patch Notes here: https://store.steampowered.com/news/app/1118520/view/679627615118560045",
+    "category": "patch_note",
+    "categoryLabel": "Patch Note",
+    "pubDate": "Thu, 18 Jun 2026 17:48:31 +0000",
+    "thumbnail": "https://clan.fastly.steamstatic.com/images/36095985/a488ac19d5378baf762211b02e81233d2cd6dc74.png",
+    "link": "https://store.steampowered.com/news/app/1118520/view/679627615118560032",
+    "guid": "https://store.steampowered.com/news/app/1118520/view/679627615118560032",
+    "addedAt": "2026-07-03T01:14:37.079Z"
+  },
+  {
+    "id": "679627615118560045",
+    "title": "Patch Notes 0.1.4",
+    "description": "New Better Steam Workshop tags for mods: Creators can now choose tags for their mods and custom content to help players browse the Steam Workshop more easily. Modders will need to edit their existing mods, households and lots in-game to select new tags. The Unpacking-inspired house from the collab trailer is now available in the lot library menu. Options menu: Added a button to reset each setting to its default value. Bug Fixes Improved the save system to reduce chances of having save files t...",
+    "category": "patch_note",
+    "categoryLabel": "Patch Note",
+    "pubDate": "Thu, 18 Jun 2026 17:47:59 +0000",
+    "thumbnail": null,
+    "link": "https://store.steampowered.com/news/app/1118520/view/679627615118560045",
+    "guid": "https://store.steampowered.com/news/app/1118520/view/679627615118560045",
+    "addedAt": "2026-07-03T01:14:37.079Z"
+  },
+  {
+    "id": "686382380150163095",
+    "title": "Hotfix 0.1.3b",
+    "description": "Fixed an issue where players would get stuck on a \"Reimporting assets\" screen when launching the game with mods installed.",
+    "category": "patch_note",
+    "categoryLabel": "Patch Note",
+    "pubDate": "Fri, 12 Jun 2026 13:33:32 +0000",
+    "thumbnail": null,
+    "link": "https://store.steampowered.com/news/app/1118520/view/686382380150163095",
+    "guid": "https://store.steampowered.com/news/app/1118520/view/686382380150163095",
+    "addedAt": "2026-07-03T01:14:37.079Z"
+  },
+  {
+    "id": "686382380150162710",
+    "title": "Known Issues - June 11th, 2026",
+    "description": "here are some more known issues we’re working on, and our upcoming patch will be out next week! 🔨💪👷 see our handy troubleshooting post here: https://steamcommunity.com/app/1118520/discussions/1/569288683937662349/",
+    "category": "known_issue",
+    "categoryLabel": "Known Issue",
+    "pubDate": "Thu, 11 Jun 2026 18:52:50 +0000",
+    "thumbnail": "https://clan.fastly.steamstatic.com/images/36095985/df7b6b01212f1b4b4d0f0f0ec3a4b447c9aac8dc.png",
+    "link": "https://store.steampowered.com/news/app/1118520/view/686382380150162710",
+    "guid": "https://store.steampowered.com/news/app/1118520/view/686382380150162710",
+    "addedAt": "2026-07-03T01:14:37.079Z"
+  }
+]

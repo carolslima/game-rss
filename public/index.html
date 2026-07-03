@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Game RSS — Feeds de Notícias de Jogos</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: #0f0f0f;
+      color: #e0e0e0;
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 40px 20px;
+    }
+    h1 { font-size: 2em; margin-bottom: 8px; color: #fff; }
+    .subtitle { color: #888; margin-bottom: 32px; }
+    .feed {
+      background: #1a1a1a;
+      border: 1px solid #2a2a2a;
+      border-radius: 8px;
+      padding: 20px;
+      margin-bottom: 16px;
+    }
+    .feed h2 { font-size: 1.2em; color: #fff; margin-bottom: 4px; }
+    .feed .publisher { color: #888; font-size: 0.9em; margin-bottom: 8px; }
+    .feed a {
+      color: #7c8cf8;
+      text-decoration: none;
+      font-family: monospace;
+      font-size: 0.95em;
+    }
+    .feed a:hover { text-decoration: underline; }
+    .feed .lang { display: inline-block; background: #2a2a2a; border-radius: 4px; padding: 2px 8px; font-size: 0.8em; margin-left: 8px; }
+    footer { margin-top: 40px; color: #555; font-size: 0.85em; text-align: center; }
+  </style>
+</head>
+<body>
+  <h1>🎮 Game RSS</h1>
+  <p class="subtitle">Feeds RSS de notícias de jogos — gerados automaticamente a cada 30 minutos.</p>
+
+  <div class="feed">
+    <h2>inZOI <span class="lang">pt-br</span></h2>
+    <p class="publisher">KRAFTON — API oficial</p>
+    <a href="/game-rss/inzoi.xml">https://carolslima.github.io/game-rss/inzoi.xml</a>
+  </div>
+
+  <div class="feed">
+    <h2>The Sims 4 <span class="lang">pt-br</span></h2>
+    <p class="publisher">EA — site oficial ea.com/pt-br (títulos e resumos em português)</p>
+    <a href="/game-rss/thesims4.xml">https://carolslima.github.io/game-rss/thesims4.xml</a>
+  </div>
+
+  <div class="feed">
+    <h2>Paralives <span class="lang">pt-br *</span></h2>
+    <p class="publisher">Paralives Studio — Steam RSS Feed (conteúdo original em inglês, estúdio não publica em pt-br)</p>
+    <a href="/game-rss/paralives.xml">https://carolslima.github.io/game-rss/paralives.xml</a>
+  </div>
+
+  <footer>
+    Última atualização: <span id="updated"></span> —
+    <a href="https://github.com/carolslima/game-rss" style="color:#555">github.com/carolslima/game-rss</a>
+  </footer>
+
+  <script>
+    document.getElementById('updated').textContent = new Date().toISOString();
+  </script>
+</body>
+</html>
