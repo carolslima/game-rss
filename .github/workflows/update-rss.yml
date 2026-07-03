@@ -61,8 +61,6 @@ jobs:
           DISCORD_WEBHOOK_INZOI: ${{ secrets.DISCORD_WEBHOOK_INZOI }}
           DISCORD_WEBHOOK_SIMS4: ${{ secrets.DISCORD_WEBHOOK_SIMS4 }}
           DISCORD_WEBHOOK_PARALIVES: ${{ secrets.DISCORD_WEBHOOK_PARALIVES }}
-          KRAFTON_NAMESPACE: ${{ secrets.KRAFTON_NAMESPACE }}
-          KRAFTON_GAME: ${{ secrets.KRAFTON_GAME }}
         run: node lib/orchestrator.js
 
       # -------------------------------------------------------------------
