@@ -14,7 +14,7 @@
 |------|-----------|----------|--------|-------|
 | **inZOI** | KRAFTON | [`inzoi.xml`](https://carolslima.github.io/game-rss/inzoi.xml) | 🇧🇷 pt-br | API oficial (`api-foc.krafton.com`) |
 | **The Sims** | EA | [`thesims.xml`](https://carolslima.github.io/game-rss/thesims.xml) | 🇧🇷 pt-br | Site oficial (`ea.com/pt-br`) |
-| **Paralives** | Paralives Studio | [`paralives.xml`](https://carolslima.github.io/game-rss/paralives.xml) | 🇧🇷 pt-br * | Site oficial (`paralives.com/news`) |
+| **Paralives** | Paralives Studio | [`paralives.xml`](https://carolslima.github.io/game-rss/paralives.xml) | 🇧🇷 pt-br | Site oficial + tradução automática |
 | **Carol Gamer** | Blog | [`carolgamer.xml`](https://carolslima.github.io/game-rss/carolgamer.xml) | 🇧🇷 pt-br | RSS Blogger (`carolgamer.com`) |
 
 > \* Paralives: feed do site oficial Squarespace, conteúdo original em inglês (estúdio indie não publica em pt-br).
@@ -35,6 +35,7 @@ lib/rss-generator.js      → Gerador RSS 2.0 genérico (feedMeta + posts → XM
 lib/history.js            → Histórico JSON por jogo (deduplicação, merge)
 lib/discord.js            → Notificador Discord via webhook (embeds)
 lib/fetch-utils.js        → Fetch HTTP com timeout, retry e backoff exponencial
+lib/translate.js          → Tradução automática gratuita (en → pt-br)
 lib/xml-utils.js          → Escape XML, CDATA, enclosure tag
 ```
 
@@ -96,7 +97,9 @@ Fallback para Steam RSS se a extração falhar.
 ### Paralives (Paralives Studio)
 
 Feed RSS nativo do Squarespace em `paralives.com/news?format=rss`.
-Conteúdo original em inglês (estúdio indie não publica em outros idiomas).
+Conteúdo original em inglês, **traduzido automaticamente para pt-br** via Google Translate
+(endpoint gratuito, sem API key). O módulo `lib/translate.js` gerencia a tradução
+com quebra de textos longos e delay entre requisições.
 
 ### Carol Gamer (Blogger)
 
@@ -221,6 +224,7 @@ game-rss/
 │   ├── history.js             # Histórico JSON com deduplicação
 │   ├── discord.js             # Notificador Discord (webhook embeds)
 │   ├── fetch-utils.js         # Fetch com timeout, retry, backoff
+│   ├── translate.js           # Tradução automática en → pt-br
 │   ├── xml-utils.js           # escapeXml, cdata, enclosure
 │   └── source-adapters/
 │       ├── steam-rss.js       # Parser compartilhado de RSS Steam
