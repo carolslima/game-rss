@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <title>Paralives — Notícias (en-us)</title>
-    <description>Últimas notícias e atualizações do Paralives para a comunidade brasileira.</description>
+    <title>Paralives — Notícias (pt-br)</title>
+    <description>Últimas notícias e atualizações do Paralives para a comunidade brasileira. Conteúdo traduzido automaticamente do inglês via Google Translate (gratuito).</description>
     <link>https://www.paralives.com/news</link>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 04 Jul 2026 07:04:06 GMT</lastBuildDate>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 04 Jul 2026 07:17:24 GMT</lastBuildDate>
     <generator>Game RSS Multi-Source Generator</generator>
     <atom:link href="https://carolslima.github.io/game-rss/paralives.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Patch Notes 0.1.5</title>
-      <description>New Smaller save files: New save files will now be 30MB in average instead of 500MB. Multiple autosaves: The autosave feature will now keep the 3 last versions of each save file, allowing players to go back to a previous version in the Load Game menu. Steam Cloud: Save files can now be synced on Steam Cloud to easily continue playing on a different computer. Lot Changes: Players can now revert ...</description>
+      <title>Notas do patch 0.1.5</title>
+      <description>Novos arquivos salvos menores: Os novos arquivos salvos agora terão em média 30 MB em vez de 500 MB. Vários salvamentos automáticos: O recurso de salvamento automático agora manterá as 3 últimas versões de cada arquivo salvo, permitindo que os jogadores voltem para uma versão anterior no menu Carregar Jogo. Steam Cloud: Os arquivos salvos agora podem ser sincronizados no Steam Cloud para continuar jogando facilmente em um computador diferente. Mudanças no lote: os jogadores agora podem reverter ...</description>
       <link>https://www.paralives.com/news/patch-notes-015</link>
       <guid isPermaLink="true">5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6a4698482cdc455669330596</guid>
       <pubDate>Thu, 02 Jul 2026 17:01:42 GMT</pubDate>
       <category>Patch Note</category>
     </item>
     <item>
-      <title>Paralives x Aloft Bundle Now Available!</title>
-      <description>the adventure doesn’t stop! 🌬️🏡 check out our discounted bundle with @Aloft_game available now on Steam!<br/><img src="https://images.squarespace-cdn.com/content/v1/5d1a3dd178b4ad0001997321/62fb204a-76d0-41f2-87a6-714656afe319/AL_ParalivesBundle_1920x1080.jpg?format=1000w" alt="Paralives x Aloft Bundle Now Available!" style="max-width:100%;"/></description>
+      <title>Pacote Paralives x Aloft já disponível!</title>
+      <description>a aventura não para! 🌬️🏡 confira nosso pacote com desconto com @Aloft_game disponível agora no Steam!<br/><img src="https://images.squarespace-cdn.com/content/v1/5d1a3dd178b4ad0001997321/62fb204a-76d0-41f2-87a6-714656afe319/AL_ParalivesBundle_1920x1080.jpg?format=1000w" alt="Pacote Paralives x Aloft já disponível!" style="max-width:100%;"/></description>
       <link>https://www.paralives.com/news/paralives-x-aloft-bundle-now-available</link>
       <guid isPermaLink="true">5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6a3d80cf5e4fbd1439eae631</guid>
       <pubDate>Thu, 25 Jun 2026 19:26:51 GMT</pubDate>
@@ -26,8 +26,8 @@
       <enclosure url="https://images.squarespace-cdn.com/content/v1/5d1a3dd178b4ad0001997321/62fb204a-76d0-41f2-87a6-714656afe319/AL_ParalivesBundle_1920x1080.jpg?format=1000w" type="image/jpeg"/>
     </item>
     <item>
-      <title>☀️ Steam Summer Sale on Now!</title>
-      <description><![CDATA[&nbsp;🌞 it’s finally warm out and our favourite summertime activity is… playing Paralives! get Paralives at a 20% discount now through July 9th during the Steam Summer Sale! 🌴]]><br/><img src="https://images.squarespace-cdn.com/content/v1/5d1a3dd178b4ad0001997321/1bcc1c6b-1d94-42db-92fd-90154dcbeb9d/Steam+Summer+sale+Banner+1080x1080+%281%29.png?format=1000w" alt="☀️ Steam Summer Sale on Now!" style="max-width:100%;"/></description>
+      <title>☀️ Promoção de verão Steam já disponível!</title>
+      <description> 🌞 finalmente está quente e nossa atividade favorita de verão é… jogar Paralives! obtenha Paralives com 20% de desconto agora até 9 de julho durante a Steam Summer Sale! 🌴<br/><img src="https://images.squarespace-cdn.com/content/v1/5d1a3dd178b4ad0001997321/1bcc1c6b-1d94-42db-92fd-90154dcbeb9d/Steam+Summer+sale+Banner+1080x1080+%281%29.png?format=1000w" alt="☀️ Promoção de verão Steam já disponível!" style="max-width:100%;"/></description>
       <link>https://www.paralives.com/news/-steam-summer-sale-on-now</link>
       <guid isPermaLink="true">5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6a3d7c308d45873b9f781a89</guid>
       <pubDate>Thu, 25 Jun 2026 19:07:22 GMT</pubDate>
@@ -35,42 +35,42 @@
       <enclosure url="https://images.squarespace-cdn.com/content/v1/5d1a3dd178b4ad0001997321/1bcc1c6b-1d94-42db-92fd-90154dcbeb9d/Steam+Summer+sale+Banner+1080x1080+%281%29.png?format=1000w" type="image/png"/>
     </item>
     <item>
-      <title>Paralives Giveaway</title>
-      <description>To celebrate our 1 million copies sold, we’re giving away 10 Steam keys 🗝️🎉 Enter now by participating on Instagram, Facebook, or X/Twitter. Winners will be contacted on June 26th through our official account, make sure your DMs are open!<br/><img src="https://images.squarespace-cdn.com/content/v1/5d1a3dd178b4ad0001997321/3198bf6b-d9aa-4079-bab1-4e5c7e71c83b/MilestonesAnnouncements+Square+%282%29.png?format=1000w" alt="Paralives Giveaway" style="max-width:100%;"/></description>
+      <title>Sorteio Paralives</title>
+      <description>Para comemorar nosso 1 milhão de cópias vendidas, estamos distribuindo 10 chaves Steam 🗝️🎉 Participe agora participando no Instagram, Facebook ou X/Twitter. Os vencedores serão contatados no dia 26 de junho através de nossa conta oficial, certifique-se de que seus DMs estejam abertos!<br/><img src="https://images.squarespace-cdn.com/content/v1/5d1a3dd178b4ad0001997321/3198bf6b-d9aa-4079-bab1-4e5c7e71c83b/MilestonesAnnouncements+Square+%282%29.png?format=1000w" alt="Sorteio Paralives" style="max-width:100%;"/></description>
       <link>https://www.paralives.com/news/paralives-giveaway</link>
       <guid isPermaLink="true">5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6a3be090c0fcdc6bd36268c2</guid>
-      <pubDate>Sat, 04 Jul 2026 07:04:06 GMT</pubDate>
+      <pubDate>Sat, 04 Jul 2026 07:17:24 GMT</pubDate>
       <category>Notícia</category>
       <enclosure url="https://images.squarespace-cdn.com/content/v1/5d1a3dd178b4ad0001997321/3198bf6b-d9aa-4079-bab1-4e5c7e71c83b/MilestonesAnnouncements+Square+%282%29.png?format=1000w" type="image/png"/>
     </item>
     <item>
-      <title>1,000,000 COPIES SOLD</title>
-      <description>We’re incredibly grateful for all of your support, reviews, and feedback this past month! Thank you a million times ❤️<br/><img src="https://images.squarespace-cdn.com/content/v1/5d1a3dd178b4ad0001997321/01a49463-540a-41c7-b007-8b202cc60cca/MilestonesAnnouncements+Square.png?format=1000w" alt="1,000,000 COPIES SOLD" style="max-width:100%;"/></description>
+      <title>1.000.000 DE CÓPIAS VENDIDAS</title>
+      <description>Estamos extremamente gratos por todo o seu apoio, avaliações e comentários no mês passado! Obrigada um milhão de vezes ❤️<br/><img src="https://images.squarespace-cdn.com/content/v1/5d1a3dd178b4ad0001997321/01a49463-540a-41c7-b007-8b202cc60cca/MilestonesAnnouncements+Square.png?format=1000w" alt="1.000.000 DE CÓPIAS VENDIDAS" style="max-width:100%;"/></description>
       <link>https://www.paralives.com/news/1000000-copies-sold-</link>
       <guid isPermaLink="true">5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6a3bdb7000e97f21e0a4dd47</guid>
-      <pubDate>Sat, 04 Jul 2026 07:04:06 GMT</pubDate>
+      <pubDate>Sat, 04 Jul 2026 07:17:24 GMT</pubDate>
       <category>Marco</category>
       <enclosure url="https://images.squarespace-cdn.com/content/v1/5d1a3dd178b4ad0001997321/01a49463-540a-41c7-b007-8b202cc60cca/MilestonesAnnouncements+Square.png?format=1000w" type="image/png"/>
     </item>
     <item>
-      <title>Soundtrack Behind the Scenes</title>
-      <description>here’s a glimpse into the creation of Paralives’ original soundtrack! it’s out on all streaming platforms, let us know which song is your favorite 😌ྀི♪⋆.✮</description>
+      <title>Trilha sonora nos bastidores</title>
+      <description>aqui está um vislumbre da criação da trilha sonora original de Paralives! está disponível em todas as plataformas de streaming, diga-nos qual música é a sua favorita 😌ྀི♪⋆.✮</description>
       <link>https://www.paralives.com/news/soundtrack-behind-the-scenes</link>
       <guid isPermaLink="true">5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6a3586938a3d6905bf30e96a</guid>
-      <pubDate>Sat, 04 Jul 2026 07:04:06 GMT</pubDate>
+      <pubDate>Sat, 04 Jul 2026 07:17:24 GMT</pubDate>
       <category>Notícia</category>
     </item>
     <item>
-      <title>Patch Notes 0.1.4</title>
-      <description>New Better Steam Workshop tags for mods: Creators can now choose tags for their mods and custom content to help players browse the Steam Workshop more easily. Modders will need to edit their existing mods, households and lots in-game to select new tags. The Unpacking-inspired house from the collab trailer is now available in the lot library menu. Options menu: Added a button to reset each setti...</description>
+      <title>Notas do patch 0.1.4</title>
+      <description>Novas tags melhores do Steam Workshop para mods: Os criadores agora podem escolher tags para seus mods e conteúdo personalizado para ajudar os jogadores a navegar no Steam Workshop com mais facilidade. Os modders precisarão editar seus mods, famílias e lotes existentes no jogo para selecionar novas tags. A casa inspirada em Unpacking do trailer de colaboração agora está disponível no menu da biblioteca de lotes. Menu de opções: Adicionado um botão para redefinir cada configuração...</description>
       <link>https://www.paralives.com/news/patch-notes-014</link>
       <guid isPermaLink="true">5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6a34305034c90864d9fc9fd2</guid>
       <pubDate>Thu, 18 Jun 2026 17:52:46 GMT</pubDate>
       <category>Patch Note</category>
     </item>
     <item>
-      <title>Known Issues - June 11th, 2026</title>
-      <description>here are some more known issues we’re working on, and our upcoming patch will be out next week! 🔨💪👷 see our handy troubleshooting post here: https://steamcommunity.com/app/1118520/discussions/1/569288683937662349/<br/><img src="https://images.squarespace-cdn.com/content/v1/5d1a3dd178b4ad0001997321/bbbcb3a3-bad1-40e2-af52-7c8b789b646d/9.png?format=1000w" alt="Known Issues - June 11th, 2026" style="max-width:100%;"/></description>
+      <title>Problemas conhecidos – 11 de junho de 2026</title>
+      <description>here are some more known issues we’re working on, and our upcoming patch will be out next week! 🔨💪👷 see our handy troubleshooting post here: https://steamcommunity.com/app/1118520/discussions/1/569288683937662349/<br/><img src="https://images.squarespace-cdn.com/content/v1/5d1a3dd178b4ad0001997321/bbbcb3a3-bad1-40e2-af52-7c8b789b646d/9.png?format=1000w" alt="Problemas conhecidos – 11 de junho de 2026" style="max-width:100%;"/></description>
       <link>https://www.paralives.com/news/known-issues-june-11th-2026</link>
       <guid isPermaLink="true">5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6a2b06bb4eb9b32e49334f3b</guid>
       <pubDate>Thu, 11 Jun 2026 19:05:10 GMT</pubDate>
@@ -78,8 +78,8 @@
       <enclosure url="https://images.squarespace-cdn.com/content/v1/5d1a3dd178b4ad0001997321/bbbcb3a3-bad1-40e2-af52-7c8b789b646d/9.png?format=1000w" type="image/png"/>
     </item>
     <item>
-      <title>Unpacking House</title>
-      <description>we’ve recreated the Unpacking house in Paralives for our collab trailer (˶ᵔ ᵕ ᵔ˶) get our Steam bundle out now! https://store.steampowered.com/app/1118520/Paralives/<br/><img src="https://images.squarespace-cdn.com/content/v1/5d1a3dd178b4ad0001997321/1781038851617-P3A5LF6RAIJ3FPGMK54Z/1.1.Unpacking_Nursery_V2.png?format=1000w" alt="Unpacking House" style="max-width:100%;"/></description>
+      <title>Desempacotando a casa</title>
+      <description>we’ve recreated the Unpacking house in Paralives for our collab trailer (˶ᵔ ᵕ ᵔ˶) get our Steam bundle out now! https://store.steampowered.com/app/1118520/Paralives/<br/><img src="https://images.squarespace-cdn.com/content/v1/5d1a3dd178b4ad0001997321/1781038851617-P3A5LF6RAIJ3FPGMK54Z/1.1.Unpacking_Nursery_V2.png?format=1000w" alt="Desempacotando a casa" style="max-width:100%;"/></description>
       <link>https://www.paralives.com/news/unpacking-house</link>
       <guid isPermaLink="true">5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6a287ee84baec62860709543</guid>
       <pubDate>Tue, 09 Jun 2026 21:02:10 GMT</pubDate>
@@ -87,74 +87,74 @@
       <enclosure url="https://images.squarespace-cdn.com/content/v1/5d1a3dd178b4ad0001997321/1781038851617-P3A5LF6RAIJ3FPGMK54Z/1.1.Unpacking_Nursery_V2.png?format=1000w" type="image/png"/>
     </item>
     <item>
-      <title>Unpacking Collab and Bundle</title>
+      <title>Desempacotando Collab e Bundle</title>
       <description>our collab with Unpacking is now available through a free update 📦 check it out now and get a discounted bundle of both games ٩(ˊᗜˋ*)و ➡️ get Paralives and the Unpacking bundle on Steam now: https://store.steampowered.com/app/1118520/Paralives/</description>
       <link>https://www.paralives.com/news/unpacking-collab-and-bundle</link>
       <guid isPermaLink="true">5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6a287e61ddd84871c61ed0b2</guid>
-      <pubDate>Sat, 04 Jul 2026 07:04:06 GMT</pubDate>
+      <pubDate>Sat, 04 Jul 2026 07:17:24 GMT</pubDate>
       <category>Anúncio</category>
     </item>
     <item>
-      <title>Patch Notes 0.1.3</title>
+      <title>Notas do patch 0.1.3</title>
       <description>New Paralives x Unpacking collab: Have your Parafolks play Unpacking on the computer, collect Unpacking stamps or elevate rooms with Unpacking plushies and objects! Eat as a group: Each Para will now grab and eat a portion when doing this interaction as a group. Teen romance: Teenagers can now flirt and be in a romantic relationship with other teenagers. Accessibility option: Added an option to...</description>
       <link>https://www.paralives.com/news/patch-notes-013</link>
       <guid isPermaLink="true">5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6a244968418d931011b51422</guid>
-      <pubDate>Sat, 04 Jul 2026 07:04:06 GMT</pubDate>
+      <pubDate>Sat, 04 Jul 2026 07:17:24 GMT</pubDate>
       <category>Patch Note</category>
     </item>
     <item>
-      <title>Tune into Wholesome Direct June 6th for a Fun Announcement!</title>
-      <description>some fun news dropping tomorrow…tune in to Wholesome Direct June 6th at 9AM PT/12PM ET ( ¬ᴗ¬) Watch the Wholesome Direct!</description>
+      <title>Sintonize o Wholesome Direct em 6 de junho para um anúncio divertido!</title>
+      <description>algumas notícias divertidas chegando amanhã… sintonize o Wholesome Direct em 6 de junho às 9h PT/12h ET (¬ᴗ¬) Assista ao Wholesome Direct!</description>
       <link>https://www.paralives.com/news/tune-into-wholesome-direct-june-6th-for-a-fun-announcement</link>
       <guid isPermaLink="true">5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6a23042ef7468554c98b0f09</guid>
-      <pubDate>Sat, 04 Jul 2026 07:04:06 GMT</pubDate>
+      <pubDate>Sat, 04 Jul 2026 07:17:24 GMT</pubDate>
       <category>Notícia</category>
     </item>
     <item>
-      <title>How to fix corrupted save files</title>
-      <description>In rare cases, your save files might get corrupted because of a bug, or if the game is closed or crashes while saving. We understand that losing a save file is really frustrating, and we are very sorry about that. We are working on improvements to our save system to prevent save files from getting corrupted. In the meantime, if your save file refuses to load, you may attempt to fix it manually ...</description>
+      <title>Como consertar arquivos salvos corrompidos</title>
+      <description>Em casos raros, seus arquivos salvos podem ser corrompidos devido a um bug ou se o jogo for fechado ou travar durante o salvamento. Entendemos que perder um arquivo salvo é realmente frustrante e lamentamos muito por isso. Estamos trabalhando em melhorias em nosso sistema de salvamento para evitar que arquivos salvos sejam corrompidos. Enquanto isso, se o seu arquivo salvo se recusar a carregar, você pode tentar corrigi-lo manualmente...</description>
       <link>https://www.paralives.com/news/fix-save-files</link>
       <guid isPermaLink="true">5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6a21da1c8823b74b5a4e9a7e</guid>
       <pubDate>Thu, 04 Jun 2026 20:23:03 GMT</pubDate>
       <category>Notícia</category>
     </item>
     <item>
-      <title>Complete Original Soundtrack</title>
-      <description><![CDATA[Relax to the beats of Paralives’ original soundtrack composed by Andrei Castañon, now out on our YouTube channel!&nbsp;]]></description>
+      <title>Trilha Sonora Original Completa</title>
+      <description>Relaxe ao som da trilha sonora original de Paralives composta por Andrei Castañon, já disponível em nosso canal no YouTube! </description>
       <link>https://www.paralives.com/news/complete-original-soundtrack</link>
       <guid isPermaLink="true">5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6a21a769ce847435f2174f26</guid>
       <pubDate>Thu, 04 Jun 2026 16:28:06 GMT</pubDate>
       <category>Notícia</category>
     </item>
     <item>
-      <title>Known Issues - June 3rd, 2026</title>
-      <description>here’s an updated list of the known issues we’re working on! we appreciate all your reporting! ( ◡̀_◡́)ᕤ<br/><img src="https://images.squarespace-cdn.com/content/v1/5d1a3dd178b4ad0001997321/43c8c917-a23c-4a6f-817f-41e312896089/5.png?format=1000w" alt="Known Issues - June 3rd, 2026" style="max-width:100%;"/></description>
+      <title>Problemas conhecidos – 3 de junho de 2026</title>
+      <description>aqui está uma lista atualizada dos problemas conhecidos nos quais estamos trabalhando! agradecemos todos os seus relatórios! (◡̀_◡́)ᕤ<br/><img src="https://images.squarespace-cdn.com/content/v1/5d1a3dd178b4ad0001997321/43c8c917-a23c-4a6f-817f-41e312896089/5.png?format=1000w" alt="Problemas conhecidos – 3 de junho de 2026" style="max-width:100%;"/></description>
       <link>https://www.paralives.com/news/known-issues-june-3rd-2026</link>
       <guid isPermaLink="true">5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6a207f9c862f4d4f5b63fc66</guid>
-      <pubDate>Sat, 04 Jul 2026 07:04:06 GMT</pubDate>
+      <pubDate>Sat, 04 Jul 2026 07:17:24 GMT</pubDate>
       <category>Known Issue</category>
       <enclosure url="https://images.squarespace-cdn.com/content/v1/5d1a3dd178b4ad0001997321/43c8c917-a23c-4a6f-817f-41e312896089/5.png?format=1000w" type="image/png"/>
     </item>
     <item>
-      <title>Steam Workshop</title>
-      <description>With already 13,000 items uploaded, Paralives’ Steam Workshop is powered by the incredible creativity of community members ⚙️⚒️ Check out players’ favorite mods and CC and explore the workshop now: https://steamcommunity.com/app/1118520/workshop/<br/><img src="https://images.squarespace-cdn.com/content/v1/5d1a3dd178b4ad0001997321/05f923d7-71ad-44bf-bf6c-f816992a8551/Steam+Workshop+Square+%281%29.png?format=1000w" alt="Steam Workshop" style="max-width:100%;"/></description>
+      <title>Oficina Steam</title>
+      <description>With already 13,000 items uploaded, Paralives’ Steam Workshop is powered by the incredible creativity of community members ⚙️⚒️ Check out players’ favorite mods and CC and explore the workshop now: https://steamcommunity.com/app/1118520/workshop/<br/><img src="https://images.squarespace-cdn.com/content/v1/5d1a3dd178b4ad0001997321/05f923d7-71ad-44bf-bf6c-f816992a8551/Steam+Workshop+Square+%281%29.png?format=1000w" alt="Oficina Steam" style="max-width:100%;"/></description>
       <link>https://www.paralives.com/news/steam-workshop</link>
       <guid isPermaLink="true">5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6a2051449a0799075e89bcde</guid>
-      <pubDate>Sat, 04 Jul 2026 07:04:06 GMT</pubDate>
+      <pubDate>Sat, 04 Jul 2026 07:17:24 GMT</pubDate>
       <category>Notícia</category>
       <enclosure url="https://images.squarespace-cdn.com/content/v1/5d1a3dd178b4ad0001997321/05f923d7-71ad-44bf-bf6c-f816992a8551/Steam+Workshop+Square+%281%29.png?format=1000w" type="image/png"/>
     </item>
     <item>
-      <title>Patch Notes 0.1.2</title>
+      <title>Notas do patch 0.1.2</title>
       <description>Bug FixesMade improvements to memory management to eliminate a memory leak and reduce crashes. Fixed a bug where some interface windows could not be closed. Fire: Parafolks now have a chance to autonomously extinguish items on fire instead of always panicking or fleeing. Fire: Stairs can no longer catch on fire because it caused pathfinding issues when trying to extinguish them. Fire: Fixed a b...</description>
       <link>https://www.paralives.com/news/patch-notes-012</link>
       <guid isPermaLink="true">5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6a19eb54aae5a831ab1f2c72</guid>
-      <pubDate>Sat, 04 Jul 2026 07:04:06 GMT</pubDate>
+      <pubDate>Sat, 04 Jul 2026 07:17:24 GMT</pubDate>
       <category>Patch Note</category>
     </item>
     <item>
-      <title>Paralives Original Game Soundtrack Out Now</title>
-      <description><![CDATA[Soundtrack fans rejoice!!! The Paralives Original Soundtrack is now on all streaming platforms 🎧🎶 Go to our Linktree to listen: https://linktr.ee/paralives&nbsp;]]><br/><img src="https://images.squarespace-cdn.com/content/v1/5d1a3dd178b4ad0001997321/1e1cd2e5-5f91-41c0-919a-22d0b0ee110c/Screenshot+2026-05-26+104643.png?format=1000w" alt="Paralives Original Game Soundtrack Out Now" style="max-width:100%;"/></description>
+      <title>Trilha sonora do jogo original de Paralives já disponível</title>
+      <description>Fãs da trilha sonora, alegrem-se!!! A Trilha Sonora Original de Paralives já está em todas as plataformas de streaming 🎧🎶 Acesse nosso Linktree para ouvir: https://linktr.ee/paralives <br/><img src="https://images.squarespace-cdn.com/content/v1/5d1a3dd178b4ad0001997321/1e1cd2e5-5f91-41c0-919a-22d0b0ee110c/Screenshot+2026-05-26+104643.png?format=1000w" alt="Trilha sonora do jogo original de Paralives já disponível" style="max-width:100%;"/></description>
       <link>https://www.paralives.com/news/paralives-original-game-soundtrack-out-now</link>
       <guid isPermaLink="true">5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6a15c07243f2ba6478f0dd57</guid>
       <pubDate>Tue, 26 May 2026 15:48:12 GMT</pubDate>
@@ -162,20 +162,20 @@
       <enclosure url="https://images.squarespace-cdn.com/content/v1/5d1a3dd178b4ad0001997321/1e1cd2e5-5f91-41c0-919a-22d0b0ee110c/Screenshot+2026-05-26+104643.png?format=1000w" type="image/png"/>
     </item>
     <item>
-      <title>Paralives x House Flipper 2 Bundle</title>
-      <description><![CDATA[🏠 Attention builders! 🏠 Paralives x House Flipper 2 bundle available now on Steam!&nbsp; https://store.steampowered.com/bundle/60734/Paralives_x_House_Flipper_2/]]><br/><img src="https://images.squarespace-cdn.com/content/v1/5d1a3dd178b4ad0001997321/d2560a36-9d04-4458-ae47-270d3a9a3557/hero_capsule.jpg?format=1000w" alt="Paralives x House Flipper 2 Bundle" style="max-width:100%;"/></description>
+      <title>Pacote Paralives x House Flipper 2</title>
+      <description><![CDATA[🏠 Attention builders! 🏠 Paralives x House Flipper 2 bundle available now on Steam!&nbsp; https://store.steampowered.com/bundle/60734/Paralives_x_House_Flipper_2/]]><br/><img src="https://images.squarespace-cdn.com/content/v1/5d1a3dd178b4ad0001997321/d2560a36-9d04-4458-ae47-270d3a9a3557/hero_capsule.jpg?format=1000w" alt="Pacote Paralives x House Flipper 2" style="max-width:100%;"/></description>
       <link>https://www.paralives.com/news/paralives-x-house-flipper-2-bundle</link>
       <guid isPermaLink="true">5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6a15bd1887465b354b304d5e</guid>
-      <pubDate>Sat, 04 Jul 2026 07:04:06 GMT</pubDate>
+      <pubDate>Sat, 04 Jul 2026 07:17:24 GMT</pubDate>
       <category>Anúncio</category>
       <enclosure url="https://images.squarespace-cdn.com/content/v1/5d1a3dd178b4ad0001997321/d2560a36-9d04-4458-ae47-270d3a9a3557/hero_capsule.jpg?format=1000w" type="image/jpeg"/>
     </item>
     <item>
-      <title>How to Report a Bug</title>
-      <description>Want to share a suggestion or a bug to help us improve Paralives while in Early Access? Use our handy dandy feedback button!! 🐛</description>
+      <title>Como relatar um bug</title>
+      <description>Quer compartilhar uma sugestão ou bug para nos ajudar a melhorar Paralives durante o Acesso Antecipado? Use nosso prático botão de feedback!! 🐛</description>
       <link>https://www.paralives.com/news/how-to-report-a-bug</link>
       <guid isPermaLink="true">5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6a15bc4fba6ba43fd453f05c</guid>
-      <pubDate>Sat, 04 Jul 2026 07:04:06 GMT</pubDate>
+      <pubDate>Sat, 04 Jul 2026 07:17:24 GMT</pubDate>
       <category>Notícia</category>
     </item>
   </channel>
