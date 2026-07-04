@@ -1,0 +1,34 @@
+{
+  "id": "carolgamer",
+  "name": "Carol Gamer",
+  "publisher": "Carol Gamer Blog",
+  "adapter": "carolgamer",
+  "enabled": true,
+  "outputFile": "carolgamer.xml",
+
+  "feedMeta": {
+    "title": "Carol Gamer — Notícias (pt-br)",
+    "description": "Blog da Carol com conteúdo voltado para jogos de simulação, mods, traduções e dicas de gameplay de The Sims 4, inZOI e Paralives. Feed extraído do RSS oficial do Blogger.",
+    "link": "https://www.carolgamer.com/",
+    "language": "pt-br",
+    "feedUrl": "https://carolslima.github.io/game-rss/carolgamer.xml",
+    "generator": "Game RSS Multi-Source Generator"
+  },
+
+  "history": { "maxPosts": 200 },
+  "fetch": { "timeoutMs": 30000, "maxRetries": 3, "retryBaseDelayMs": 1000 },
+
+  "discord": {
+    "webhookSecretName": "DISCORD_WEBHOOK_CAROLGAMER",
+    "color": 16711935,
+    "username": "Carol Gamer News Bot"
+  },
+
+  "options": {
+    "rssFeedUrl": "https://www.carolgamer.com/feeds/posts/default?alt=rss&max-results=20",
+    "fetchHeaders": {
+      "User-Agent": "GameRSS-Agent/1.0",
+      "Accept": "application/rss+xml, application/xml, text/xml"
+    }
+  }
+}
