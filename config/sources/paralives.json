@@ -6,10 +6,10 @@
   "enabled": true,
   "outputFile": "paralives.xml",
   "feedMeta": {
-    "title": "Paralives — Notícias (en-us)",
-    "description": "Últimas notícias e atualizações do Paralives para a comunidade brasileira.",
+    "title": "Paralives — Notícias (pt-br)",
+    "description": "Últimas notícias e atualizações do Paralives para a comunidade brasileira. Conteúdo traduzido automaticamente do inglês via Google Translate (gratuito).",
     "link": "https://www.paralives.com/news",
-    "language": "en-us",
+    "language": "pt-br",
     "feedUrl": "https://carolslima.github.io/game-rss/paralives.xml",
     "generator": "Game RSS Multi-Source Generator"
   },
@@ -27,6 +27,7 @@
     "username": "Carol Gamer - Notícias - Paralives"
   },
   "options": {
+    "translate": true,
     "rssFeedUrl": "https://www.paralives.com/news?format=rss",
     "fetchHeaders": {
       "User-Agent": "GameRSS-Agent/1.0",
