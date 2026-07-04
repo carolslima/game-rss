@@ -59,7 +59,7 @@ jobs:
       - name: Run orchestrator
         env:
           DISCORD_WEBHOOK_INZOI: ${{ secrets.DISCORD_WEBHOOK_INZOI }}
-          DISCORD_WEBHOOK_SIMS4: ${{ secrets.DISCORD_WEBHOOK_SIMS4 }}
+          DISCORD_WEBHOOK_SIMS: ${{ secrets.DISCORD_WEBHOOK_SIMS }}
           DISCORD_WEBHOOK_PARALIVES: ${{ secrets.DISCORD_WEBHOOK_PARALIVES }}
           DISCORD_WEBHOOK_CAROLGAMER: ${{ secrets.DISCORD_WEBHOOK_CAROLGAMER }}
         run: node lib/orchestrator.js

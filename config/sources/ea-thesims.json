@@ -1,16 +1,16 @@
 {
-  "id": "ea-thesims4",
-  "name": "The Sims 4",
+  "id": "ea-thesims",
+  "name": "The Sims",
   "publisher": "EA",
-  "adapter": "ea-thesims4",
+  "adapter": "ea-thesims",
   "enabled": true,
-  "outputFile": "thesims4.xml",
+  "outputFile": "thesims.xml",
   "feedMeta": {
-    "title": "The Sims 4 — Notícias (pt-br)",
-    "description": "Últimas notícias e atualizações do The Sims 4, diretamente do site oficial da EA (ea.com/pt-br). Inclui anúncios, atualizações, eventos e mais.",
+    "title": "The Sims — Notícias (pt-br)",
+    "description": "Últimas notícias e atualizações do The Sims. Inclui anúncios, atualizações, eventos e mais.",
     "link": "https://www.ea.com/pt-br/games/the-sims/news",
     "language": "pt-br",
-    "feedUrl": "https://carolslima.github.io/game-rss/thesims4.xml",
+    "feedUrl": "https://carolslima.github.io/game-rss/thesims.xml",
     "generator": "Game RSS Multi-Source Generator"
   },
   "history": {
@@ -22,9 +22,9 @@
     "retryBaseDelayMs": 2000
   },
   "discord": {
-    "webhookSecretName": "DISCORD_WEBHOOK_SIMS4",
+    "webhookSecretName": "DISCORD_WEBHOOK_SIMS",
     "color": 2201331,
-    "username": "Carol Gamer - The Sims 4 Notícias"
+    "username": "Carol Gamer - Notícias - The Sims"
   },
   "options": {
     "newsUrl": "https://www.ea.com/pt-br/games/the-sims/news",

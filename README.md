@@ -13,11 +13,11 @@
 | Jogo | Publisher | Feed RSS | Idioma | Fonte |
 |------|-----------|----------|--------|-------|
 | **inZOI** | KRAFTON | [`inzoi.xml`](https://carolslima.github.io/game-rss/inzoi.xml) | 🇧🇷 pt-br | API oficial (`api-foc.krafton.com`) |
-| **The Sims 4** | EA | [`thesims4.xml`](https://carolslima.github.io/game-rss/thesims4.xml) | 🇧🇷 pt-br | Site oficial (`ea.com/pt-br`) |
-| **Paralives** | Paralives Studio | [`paralives.xml`](https://carolslima.github.io/game-rss/paralives.xml) | 🇧🇷 pt-br * | Steam RSS (`store.steampowered.com`) |
+| **The Sims** | EA | [`thesims.xml`](https://carolslima.github.io/game-rss/thesims.xml) | 🇧🇷 pt-br | Site oficial (`ea.com/pt-br`) |
+| **Paralives** | Paralives Studio | [`paralives.xml`](https://carolslima.github.io/game-rss/paralives.xml) | 🇧🇷 pt-br * | Site oficial (`paralives.com/news`) |
 | **Carol Gamer** | Blog | [`carolgamer.xml`](https://carolslima.github.io/game-rss/carolgamer.xml) | 🇧🇷 pt-br | RSS Blogger (`carolgamer.com`) |
 
-> \* Paralives: metadados em pt-br, conteúdo original em inglês (estúdio indie publica apenas nesse idioma).
+> \* Paralives: feed do site oficial Squarespace, conteúdo original em inglês (estúdio indie não publica em pt-br).
 
 🔗 **URL base:** `https://carolslima.github.io/game-rss/`
 
@@ -47,8 +47,8 @@ Cron (30min) / Manual / Push
   orchestrator.js
         │
         ├─→ inZOI       → API KRAFTON (HAL+JSON, auto-descoberta)  → inzoi.xml
-        ├─→ The Sims 4  → ea.com/pt-br (extração JSON do HTML)     → thesims4.xml
-        ├─→ Paralives   → Steam RSS (fallback: inglês)              → paralives.xml
+        ├─→ The Sims  → ea.com/pt-br (extração JSON do HTML)     → thesims.xml
+        ├─→ Paralives   → paralives.com/news (Squarespace RSS)         → paralives.xml
         └─→ Carol Gamer → RSS Blogger (100% pt-br)                  → carolgamer.xml
         │
         ▼
@@ -87,7 +87,7 @@ API HAL+JSON com autenticação por headers `service-namespace` e `service-game`
 **Auto-descoberta:** faz fetch em `playinzoi.com`, extrai os valores do HTML com regex.
 Zero configuração manual. Fallback no config JSON se o site estiver offline.
 
-### The Sims 4 (EA)
+### The Sims (EA)
 
 O site `ea.com/pt-br/games/the-sims/news` (Next.js) tem os artigos em JSON embutido
 no HTML. O adaptador extrai com regex. Títulos e resumos em **português brasileiro**.
@@ -95,13 +95,13 @@ Fallback para Steam RSS se a extração falhar.
 
 ### Paralives (Paralives Studio)
 
-Feed RSS do Steam com `?l=brazilian` para metadados em pt-br. Conteúdo em inglês
-(estúdio indie não publica em outros idiomas).
+Feed RSS nativo do Squarespace em `paralives.com/news?format=rss`.
+Conteúdo original em inglês (estúdio indie não publica em outros idiomas).
 
 ### Carol Gamer (Blogger)
 
 Feed RSS nativo do Blogger em `carolgamer.com/feeds/posts/default?alt=rss`.
-Conteúdo **100% em português brasileiro** sobre The Sims 4, inZOI e Paralives.
+Conteúdo **100% em português brasileiro** sobre The Sims, inZOI e Paralives.
 
 ---
 
@@ -154,10 +154,11 @@ Conteúdo **100% em português brasileiro** sobre The Sims 4, inZOI e Paralives.
 
 | Fonte | Adaptador de exemplo | Usado por |
 |-------|---------------------|-----------|
-| Steam RSS | `steam-rss.js` (parser) | The Sims 4 (fallback), Paralives |
+| Steam RSS | `steam-rss.js` (parser) | The Sims (fallback) |
+| Squarespace RSS | `paralives.js` (parser) | Paralives |
 | Blogger RSS | `carolgamer.js` (parser) | Carol Gamer |
 | API REST/HAL+JSON | `krafton-inzoi.js` (custom) | inZOI (KRAFTON) |
-| Site com JSON embutido | `ea-thesims4.js` (custom) | The Sims 4 (EA) |
+| Site com JSON embutido | `ea-thesims.js` (custom) | The Sims (EA) |
 
 ---
 
@@ -172,7 +173,7 @@ Conteúdo **100% em português brasileiro** sobre The Sims 4, inZOI e Paralives.
 | Secret | Canal sugerido |
 |--------|---------------|
 | `DISCORD_WEBHOOK_INZOI` | `#inzoi-news` |
-| `DISCORD_WEBHOOK_SIMS4` | `#the-sims-news` |
+| `DISCORD_WEBHOOK_SIMS` | `#the-sims-news` |
 | `DISCORD_WEBHOOK_PARALIVES` | `#paralives-news` |
 | `DISCORD_WEBHOOK_CAROLGAMER` | `#carol-gamer` |
 
@@ -211,7 +212,7 @@ game-rss/
 │   └── deploy-pages.yml      # CD: deploy public/ → GitHub Pages
 ├── config/sources/            # Config JSON por jogo
 │   ├── krafton-inzoi.json
-│   ├── ea-thesims4.json
+│   ├── ea-thesims.json
 │   ├── paralives.json
 │   └── carolgamer.json
 ├── lib/
@@ -224,18 +225,18 @@ game-rss/
 │   └── source-adapters/
 │       ├── steam-rss.js       # Parser compartilhado de RSS Steam
 │       ├── krafton-inzoi.js   # API KRAFTON HAL+JSON
-│       ├── ea-thesims4.js     # EA pt-br (extração JSON do HTML)
-│       ├── paralives.js       # Steam RSS → NormalizedPost
+│       ├── ea-thesims.js     # EA pt-br (extração JSON do HTML)
+│       ├── paralives.js       # Squarespace RSS → NormalizedPost
 │       └── carolgamer.js      # Blogger RSS → NormalizedPost
 ├── data/                      # Histórico por jogo (versionado no git)
 │   ├── krafton-inzoi.json
-│   ├── ea-thesims4.json
+│   ├── ea-thesims.json
 │   ├── paralives.json
 │   └── carolgamer.json
 ├── public/                    # Servido via GitHub Pages
 │   ├── index.html             # Listagem dos feeds
 │   ├── inzoi.xml
-│   ├── thesims4.xml
+│   ├── thesims.xml
 │   ├── paralives.xml
 │   └── carolgamer.xml
 ├── package.json
@@ -275,7 +276,7 @@ git push -u origin main
 ### 4. Adicionar secrets do Discord (opcional)
 
 - **Settings → Secrets and variables → Actions → New repository secret**
-- Adicionar `DISCORD_WEBHOOK_INZOI`, `DISCORD_WEBHOOK_SIMS4`, `DISCORD_WEBHOOK_PARALIVES`, `DISCORD_WEBHOOK_CAROLGAMER`
+- Adicionar `DISCORD_WEBHOOK_INZOI`, `DISCORD_WEBHOOK_SIMS`, `DISCORD_WEBHOOK_PARALIVES`, `DISCORD_WEBHOOK_CAROLGAMER`
 
 ### 5. Primeiro teste
 
@@ -291,7 +292,7 @@ Apenas as secrets do Discord são necessárias (totalmente opcionais):
 | Secret | Descrição |
 |--------|-----------|
 | `DISCORD_WEBHOOK_INZOI` | Webhook URL do canal inZOI |
-| `DISCORD_WEBHOOK_SIMS4` | Webhook URL do canal The Sims 4 |
+| `DISCORD_WEBHOOK_SIMS` | Webhook URL do canal The Sims |
 | `DISCORD_WEBHOOK_PARALIVES` | Webhook URL do canal Paralives |
 | `DISCORD_WEBHOOK_CAROLGAMER` | Webhook URL do canal Carol Gamer |
 
