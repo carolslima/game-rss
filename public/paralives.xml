@@ -5,7 +5,7 @@
     <description>Últimas notícias e atualizações do Paralives para a comunidade brasileira. Conteúdo original em inglês (não há versão em pt-br publicada pelo estúdio). Agregado do feed oficial via Steam.</description>
     <link>https://store.steampowered.com/news/app/1118520/</link>
     <language>pt-br</language>
-    <lastBuildDate>Sat, 04 Jul 2026 05:37:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 06:03:54 GMT</lastBuildDate>
     <generator>Game RSS Multi-Source Generator</generator>
     <atom:link href="https://carolslima.github.io/game-rss/paralives.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -30,7 +30,7 @@
       <description>Some Mac users have experienced issues opening their Saved games for a few hours between June 25 and June 26. If you were affected, this issue can be fixed and your saves restored by deleting this folder: ~/Library/Application Support/Paralives/Paralives/ ➡️ If you have any new saves that you made in the meantime that you want to keep, make sure to transfer them from ~/Library/Application Support/Paralives/Paralives/MySavedGames.mod to ~/Library/Application Support/com.Paralives.Paralives/MyS...<br/><img src="https://clan.fastly.steamstatic.com/images/36095985/cc34f2b63407e8f9a6ef67727a56efe1914532a2.png" alt="Known Issue [Mac]" style="max-width:100%;"/></description>
       <link>https://store.steampowered.com/news/app/1118520/view/712279347386385604</link>
       <guid isPermaLink="true">https://store.steampowered.com/news/app/1118520/view/712279347386385604</guid>
-      <pubDate>Sat, 04 Jul 2026 05:37:56 GMT</pubDate>
+      <pubDate>Sat, 04 Jul 2026 06:03:54 GMT</pubDate>
       <category>Known Issue</category>
       <enclosure url="https://clan.fastly.steamstatic.com/images/36095985/cc34f2b63407e8f9a6ef67727a56efe1914532a2.png" type="image/png"/>
     </item>
@@ -48,7 +48,7 @@
       <description>we’re incredibly grateful for all of your support, reviews, and feedback this past month! thank you a million times ❤️<br/><img src="https://clan.fastly.steamstatic.com/images/36095985/dcf453910724b38c91d13c29026854d8709b0651.png" alt="1,000,000 COPIES SOLD 🎉🎉" style="max-width:100%;"/></description>
       <link>https://store.steampowered.com/news/app/1118520/view/712279347386384638</link>
       <guid isPermaLink="true">https://store.steampowered.com/news/app/1118520/view/712279347386384638</guid>
-      <pubDate>Sat, 04 Jul 2026 05:37:56 GMT</pubDate>
+      <pubDate>Sat, 04 Jul 2026 06:03:54 GMT</pubDate>
       <category>Milestone</category>
       <enclosure url="https://clan.fastly.steamstatic.com/images/36095985/dcf453910724b38c91d13c29026854d8709b0651.png" type="image/png"/>
     </item>
@@ -57,7 +57,7 @@
       <description>Fixed an issue where players would not be able to see or load any existing save files.</description>
       <link>https://store.steampowered.com/news/app/1118520/view/679627615118560427</link>
       <guid isPermaLink="true">https://store.steampowered.com/news/app/1118520/view/679627615118560427</guid>
-      <pubDate>Sat, 04 Jul 2026 05:37:56 GMT</pubDate>
+      <pubDate>Sat, 04 Jul 2026 06:03:54 GMT</pubDate>
       <category>Patch Note</category>
     </item>
     <item>
@@ -82,7 +82,7 @@
       <description>Fixed an issue where players would get stuck on a &quot;Reimporting assets&quot; screen when launching the game with mods installed.</description>
       <link>https://store.steampowered.com/news/app/1118520/view/686382380150163095</link>
       <guid isPermaLink="true">https://store.steampowered.com/news/app/1118520/view/686382380150163095</guid>
-      <pubDate>Sat, 04 Jul 2026 05:37:56 GMT</pubDate>
+      <pubDate>Sat, 04 Jul 2026 06:03:54 GMT</pubDate>
       <category>Patch Note</category>
     </item>
     <item>
