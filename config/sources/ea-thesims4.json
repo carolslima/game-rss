@@ -5,25 +5,27 @@
   "adapter": "ea-thesims4",
   "enabled": true,
   "outputFile": "thesims4.xml",
-
   "feedMeta": {
     "title": "The Sims 4 — Notícias (pt-br)",
-    "description": "Últimas notícias e atualizações do The Sims 4 em português brasileiro, extraídas do site oficial da EA (ea.com/pt-br). Inclui anúncios, atualizações, eventos e mais.",
+    "description": "Últimas notícias e atualizações do The Sims 4, diretamente do site oficial da EA (ea.com/pt-br). Inclui anúncios, atualizações, eventos e mais.",
     "link": "https://www.ea.com/pt-br/games/the-sims/news",
     "language": "pt-br",
     "feedUrl": "https://carolslima.github.io/game-rss/thesims4.xml",
     "generator": "Game RSS Multi-Source Generator"
   },
-
-  "history": { "maxPosts": 200 },
-  "fetch": { "timeoutMs": 30000, "maxRetries": 3, "retryBaseDelayMs": 2000 },
-
+  "history": {
+    "maxPosts": 200
+  },
+  "fetch": {
+    "timeoutMs": 30000,
+    "maxRetries": 3,
+    "retryBaseDelayMs": 2000
+  },
   "discord": {
     "webhookSecretName": "DISCORD_WEBHOOK_SIMS4",
     "color": 2201331,
-    "username": "The Sims 4 News Bot"
+    "username": "Carol Gamer - The Sims 4 Notícias"
   },
-
   "options": {
     "newsUrl": "https://www.ea.com/pt-br/games/the-sims/news",
     "steamFallbackUrl": "https://store.steampowered.com/feeds/news/app/1222670/?l=brazilian",

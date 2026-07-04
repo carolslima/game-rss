@@ -5,10 +5,9 @@
   "adapter": "krafton-inzoi",
   "enabled": true,
   "outputFile": "inzoi.xml",
-
   "feedMeta": {
     "title": "inZOI News (pt-br)",
-    "description": "Últimas notícias do inZOI — feed gerado automaticamente a partir da API oficial da KRAFTON. Inclui patch notes, anúncios, novos itens e mais.",
+    "description": "Últimas notícias do inZOI. Inclui patch notes, anúncios, novos itens e mais.",
     "link": "https://playinzoi.com/pt-br/news",
     "language": "pt-br",
     "feedUrl": "https://carolslima.github.io/game-rss/inzoi.xml",
@@ -19,17 +18,20 @@
       "link": "https://playinzoi.com"
     }
   },
-
-  "history": { "maxPosts": 300 },
-  "fetch": { "timeoutMs": 30000, "maxRetries": 3, "retryBaseDelayMs": 1000 },
-
+  "history": {
+    "maxPosts": 300
+  },
+  "fetch": {
+    "timeoutMs": 30000,
+    "maxRetries": 3,
+    "retryBaseDelayMs": 1000
+  },
   "discord": {
     "webhookSecretName": "DISCORD_WEBHOOK_INZOI",
     "color": 5763719,
-    "username": "inZOI News Bot",
+    "username": "Carol Gamer - inZOI News",
     "avatarUrl": "https://playinzoi.com/favicon.ico"
   },
-
   "options": {
     "apiBase": "https://api-foc.krafton.com/content/post/news",
     "apiParams": "lang=pt-br&searchType=TITLE_AND_CONTENT",

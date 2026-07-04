@@ -5,25 +5,27 @@
   "adapter": "paralives",
   "enabled": true,
   "outputFile": "paralives.xml",
-
   "feedMeta": {
     "title": "Paralives — Notícias (pt-br)",
-    "description": "Últimas notícias e atualizações do Paralives para a comunidade brasileira. Conteúdo original em inglês (não há versão em pt-br publicada pelo estúdio). Agregado do feed oficial via Steam.",
+    "description": "Últimas notícias e atualizações do Paralives para a comunidade brasileira. Conteúdo original em inglês.",
     "link": "https://store.steampowered.com/news/app/1118520/",
     "language": "pt-br",
     "feedUrl": "https://carolslima.github.io/game-rss/paralives.xml",
     "generator": "Game RSS Multi-Source Generator"
   },
-
-  "history": { "maxPosts": 200 },
-  "fetch": { "timeoutMs": 30000, "maxRetries": 2, "retryBaseDelayMs": 2000 },
-
+  "history": {
+    "maxPosts": 200
+  },
+  "fetch": {
+    "timeoutMs": 30000,
+    "maxRetries": 2,
+    "retryBaseDelayMs": 2000
+  },
   "discord": {
     "webhookSecretName": "DISCORD_WEBHOOK_PARALIVES",
     "color": 16740864,
-    "username": "Paralives News Bot"
+    "username": "Carol Gamer - Paralives Notícias"
   },
-
   "options": {
     "rssFeedUrl": "https://store.steampowered.com/feeds/news/app/1118520/?l=brazilian",
     "fetchHeaders": {
