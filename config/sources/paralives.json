@@ -24,7 +24,7 @@
   "discord": {
     "webhookSecretName": "DISCORD_WEBHOOK_PARALIVES",
     "color": 16740864,
-    "username": "Carol Gamer - Notícias - Paralives"
+    "username": "Notícias - Paralives"
   },
   "options": {
     "translate": true,

@@ -24,7 +24,7 @@
   "discord": {
     "webhookSecretName": "DISCORD_WEBHOOK_CAROLGAMER",
     "color": 16711935,
-    "username": "Carol Gamer - Notícias - Blog"
+    "username": "Notícias - Blog"
   },
   "options": {
     "rssFeedUrl": "https://www.carolgamer.com/feeds/posts/default?alt=rss&max-results=20",

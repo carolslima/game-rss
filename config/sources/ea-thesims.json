@@ -24,7 +24,7 @@
   "discord": {
     "webhookSecretName": "DISCORD_WEBHOOK_SIMS",
     "color": 2201331,
-    "username": "Carol Gamer - Notícias - The Sims"
+    "username": "Notícias - The Sims"
   },
   "options": {
     "newsUrl": "https://www.ea.com/pt-br/games/the-sims/news",
