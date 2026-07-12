@@ -16,6 +16,7 @@
 | **The Sims** | EA | [`thesims.xml`](https://carolslima.github.io/game-rss/thesims.xml) | 🇧🇷 pt-br | Site oficial (`ea.com/pt-br`) |
 | **Paralives** | Paralives Studio | [`paralives.xml`](https://carolslima.github.io/game-rss/paralives.xml) | 🇧🇷 pt-br | Site oficial + tradução automática |
 | **Carol Gamer** | Blog | [`carolgamer.xml`](https://carolslima.github.io/game-rss/carolgamer.xml) | 🇧🇷 pt-br | RSS Blogger (`carolgamer.com`) |
+| **Carol Gamer (Patreon)** | Patreon | [`patreon-carolgamer.xml`](https://carolslima.github.io/game-rss/patreon-carolgamer.xml) | 🇧🇷 pt-br | API pública do Patreon |
 
 > \* Paralives: feed do site oficial Squarespace, conteúdo original em inglês (estúdio indie não publica em pt-br).
 
@@ -47,10 +48,11 @@ Cron (30min) / Manual / Push
         ▼
   orchestrator.js
         │
-        ├─→ inZOI       → API KRAFTON (HAL+JSON, auto-descoberta)  → inzoi.xml
-        ├─→ The Sims  → ea.com/pt-br (extração JSON do HTML)     → thesims.xml
-        ├─→ Paralives   → paralives.com/news (Squarespace RSS)         → paralives.xml
-        └─→ Carol Gamer → RSS Blogger (100% pt-br)                  → carolgamer.xml
+        ├─→ inZOI              → API KRAFTON (HAL+JSON, auto-descoberta)  → inzoi.xml
+        ├─→ The Sims           → ea.com/pt-br (extração JSON do HTML)     → thesims.xml
+        ├─→ Paralives          → paralives.com/news (Squarespace RSS)     → paralives.xml
+        ├─→ Carol Gamer        → RSS Blogger (100% pt-br)                 → carolgamer.xml
+        └─→ Carol Gamer (Pat)  → API Patreon (pública ou autenticada)     → patreon-carolgamer.xml
         │
         ▼
   GitHub Pages (Actions deploy)
@@ -105,6 +107,19 @@ com quebra de textos longos e delay entre requisições.
 
 Feed RSS nativo do Blogger em `carolgamer.com/feeds/posts/default?alt=rss`.
 Conteúdo **100% em português brasileiro** sobre The Sims, inZOI e Paralives.
+
+### Carol Gamer (Patreon)
+
+API do Patreon que extrai publicações públicas (e privadas com token) do perfil `carolslimagamer`.
+**Modo público** (padrão): usa a API `/api/campaigns/{id}/posts` sem autenticação —
+retorna apenas posts públicos. **Modo autenticado**: quando a env var `PATREON_ACCESS_TOKEN`
+está definida, usa a API v2 (`/api/oauth2/v2/campaigns/{id}/posts`) com Bearer token,
+retornando **todos os posts** incluindo os exclusivos para apoiadores.
+O conteúdo dos posts é extraído do formato JSON ProseMirror/TipTap nativo do Patreon.
+
+Para obter o token: https://www.patreon.com/portal/registration/register-clients
+→ registrar um client → copiar o **Creator's Access Token**.
+Adicionar como secret `PATREON_ACCESS_TOKEN` no GitHub.
 
 ---
 
@@ -162,6 +177,7 @@ Conteúdo **100% em português brasileiro** sobre The Sims, inZOI e Paralives.
 | Blogger RSS | `carolgamer.js` (parser) | Carol Gamer |
 | API REST/HAL+JSON | `krafton-inzoi.js` (custom) | inZOI (KRAFTON) |
 | Site com JSON embutido | `ea-thesims.js` (custom) | The Sims (EA) |
+| API Patreon (pública ou OAuth) | `patreon-carolgamer.js` (custom) | Carol Gamer (Patreon) |
 
 ---
 
@@ -179,6 +195,7 @@ Conteúdo **100% em português brasileiro** sobre The Sims, inZOI e Paralives.
 | `DISCORD_WEBHOOK_SIMS` | `#the-sims-news` |
 | `DISCORD_WEBHOOK_PARALIVES` | `#paralives-news` |
 | `DISCORD_WEBHOOK_CAROLGAMER` | `#carol-gamer` |
+| `DISCORD_WEBHOOK_PATREON` | `#patreon-carol` |
 
 4. O campo `discord.webhookSecretName` no config JSON faz a ligação
 
@@ -217,7 +234,8 @@ game-rss/
 │   ├── krafton-inzoi.json
 │   ├── ea-thesims.json
 │   ├── paralives.json
-│   └── carolgamer.json
+│   ├── carolgamer.json
+│   └── patreon-carolgamer.json
 ├── lib/
 │   ├── orchestrator.js        # Entry point
 │   ├── rss-generator.js       # Gerador RSS 2.0 genérico
@@ -231,18 +249,21 @@ game-rss/
 │       ├── krafton-inzoi.js   # API KRAFTON HAL+JSON
 │       ├── ea-thesims.js     # EA pt-br (extração JSON do HTML)
 │       ├── paralives.js       # Squarespace RSS → NormalizedPost
-│       └── carolgamer.js      # Blogger RSS → NormalizedPost
+│       ├── carolgamer.js      # Blogger RSS → NormalizedPost
+│       └── patreon-carolgamer.js # Patreon API → NormalizedPost
 ├── data/                      # Histórico por jogo (versionado no git)
 │   ├── krafton-inzoi.json
 │   ├── ea-thesims.json
 │   ├── paralives.json
-│   └── carolgamer.json
+│   ├── carolgamer.json
+│   └── patreon-carolgamer.json
 ├── public/                    # Servido via GitHub Pages
 │   ├── index.html             # Listagem dos feeds
 │   ├── inzoi.xml
 │   ├── thesims.xml
 │   ├── paralives.xml
-│   └── carolgamer.xml
+│   ├── carolgamer.xml
+│   └── patreon-carolgamer.xml
 ├── package.json
 ├── PLAN.md                    # Planejamento detalhado
 └── README.md
@@ -291,16 +312,18 @@ git push -u origin main
 
 ## 📋 Secrets do GitHub
 
-Apenas as secrets do Discord são necessárias (totalmente opcionais):
-
 | Secret | Descrição |
 |--------|-----------|
 | `DISCORD_WEBHOOK_INZOI` | Webhook URL do canal inZOI |
 | `DISCORD_WEBHOOK_SIMS` | Webhook URL do canal The Sims |
 | `DISCORD_WEBHOOK_PARALIVES` | Webhook URL do canal Paralives |
 | `DISCORD_WEBHOOK_CAROLGAMER` | Webhook URL do canal Carol Gamer |
+| `DISCORD_WEBHOOK_PATREON` | Webhook URL do canal Patreon Carol |
+| `PATREON_ACCESS_TOKEN` | Creator's Access Token (p/ posts privados) |
 
 > A autenticação da API KRAFTON (`namespace` e `game`) é resolvida automaticamente via auto-descoberta — **não requer secrets**.
+> 
+> O token do Patreon é opcional: sem ele, o adaptador funciona em modo público (apenas posts livres).
 
 ---
 
