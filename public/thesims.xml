@@ -5,15 +5,7 @@
     <description>Últimas notícias e atualizações do The Sims. Inclui anúncios, atualizações, eventos e mais.</description>
     <link>https://www.ea.com/pt-br/games/the-sims/news</link>
     <language>pt-br</language>
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <lastBuildDate>Sun, 12 Jul 2026 21:13:30 GMT</lastBuildDate>
-=======
-    <lastBuildDate>Sun, 12 Jul 2026 20:55:29 GMT</lastBuildDate>
->>>>>>> 3e67bfd (feat: implement patreon feed support)
-=======
-    <lastBuildDate>Sun, 12 Jul 2026 21:16:38 GMT</lastBuildDate>
->>>>>>> b92a8a2 (feat: add support for authenticated Patreon v2 API)
+    <lastBuildDate>Sun, 12 Jul 2026 21:32:02 GMT</lastBuildDate>
     <generator>Game RSS Multi-Source Generator</generator>
     <atom:link href="https://carolslima.github.io/game-rss/thesims.xml" rel="self" type="application/rss+xml"/>
     <item>

@@ -5,15 +5,7 @@
     <description>Últimas notícias do inZOI. Inclui patch notes, anúncios, novos itens e mais.</description>
     <link>https://playinzoi.com/pt-br/news</link>
     <language>pt-br</language>
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <lastBuildDate>Sun, 12 Jul 2026 21:13:33 GMT</lastBuildDate>
-=======
-    <lastBuildDate>Sun, 12 Jul 2026 20:55:35 GMT</lastBuildDate>
->>>>>>> 3e67bfd (feat: implement patreon feed support)
-=======
-    <lastBuildDate>Sun, 12 Jul 2026 21:16:40 GMT</lastBuildDate>
->>>>>>> b92a8a2 (feat: add support for authenticated Patreon v2 API)
+    <lastBuildDate>Sun, 12 Jul 2026 21:32:05 GMT</lastBuildDate>
     <generator>Game RSS Multi-Source Generator</generator>
     <image>
       <url>https://playinzoi.com/favicon.ico</url>
