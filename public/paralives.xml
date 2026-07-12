@@ -6,10 +6,14 @@
     <link>https://www.paralives.com/news</link>
     <language>pt-br</language>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <lastBuildDate>Sun, 12 Jul 2026 21:13:50 GMT</lastBuildDate>
 =======
     <lastBuildDate>Sun, 12 Jul 2026 20:56:08 GMT</lastBuildDate>
 >>>>>>> 3e67bfd (feat: implement patreon feed support)
+=======
+    <lastBuildDate>Sun, 12 Jul 2026 21:17:01 GMT</lastBuildDate>
+>>>>>>> b92a8a2 (feat: add support for authenticated Patreon v2 API)
     <generator>Game RSS Multi-Source Generator</generator>
     <atom:link href="https://carolslima.github.io/game-rss/paralives.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -44,10 +48,14 @@
       <link>https://www.paralives.com/news/paralives-giveaway</link>
       <guid isPermaLink="true">5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6a3be090c0fcdc6bd36268c2</guid>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <pubDate>Sun, 12 Jul 2026 21:13:50 GMT</pubDate>
 =======
       <pubDate>Sun, 12 Jul 2026 20:56:08 GMT</pubDate>
 >>>>>>> 3e67bfd (feat: implement patreon feed support)
+=======
+      <pubDate>Sun, 12 Jul 2026 21:17:01 GMT</pubDate>
+>>>>>>> b92a8a2 (feat: add support for authenticated Patreon v2 API)
       <category>Notícia</category>
       <enclosure url="https://images.squarespace-cdn.com/content/v1/5d1a3dd178b4ad0001997321/3198bf6b-d9aa-4079-bab1-4e5c7e71c83b/MilestonesAnnouncements+Square+%282%29.png?format=1000w" type="image/png"/>
     </item>
@@ -57,10 +65,14 @@
       <link>https://www.paralives.com/news/1000000-copies-sold-</link>
       <guid isPermaLink="true">5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6a3bdb7000e97f21e0a4dd47</guid>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <pubDate>Sun, 12 Jul 2026 21:13:50 GMT</pubDate>
 =======
       <pubDate>Sun, 12 Jul 2026 20:56:08 GMT</pubDate>
 >>>>>>> 3e67bfd (feat: implement patreon feed support)
+=======
+      <pubDate>Sun, 12 Jul 2026 21:17:01 GMT</pubDate>
+>>>>>>> b92a8a2 (feat: add support for authenticated Patreon v2 API)
       <category>Marco</category>
       <enclosure url="https://images.squarespace-cdn.com/content/v1/5d1a3dd178b4ad0001997321/01a49463-540a-41c7-b007-8b202cc60cca/MilestonesAnnouncements+Square.png?format=1000w" type="image/png"/>
     </item>
@@ -70,10 +82,14 @@
       <link>https://www.paralives.com/news/soundtrack-behind-the-scenes</link>
       <guid isPermaLink="true">5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6a3586938a3d6905bf30e96a</guid>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <pubDate>Sun, 12 Jul 2026 21:13:50 GMT</pubDate>
 =======
       <pubDate>Sun, 12 Jul 2026 20:56:08 GMT</pubDate>
 >>>>>>> 3e67bfd (feat: implement patreon feed support)
+=======
+      <pubDate>Sun, 12 Jul 2026 21:17:01 GMT</pubDate>
+>>>>>>> b92a8a2 (feat: add support for authenticated Patreon v2 API)
       <category>Notícia</category>
     </item>
     <item>
@@ -108,10 +124,14 @@
       <link>https://www.paralives.com/news/unpacking-collab-and-bundle</link>
       <guid isPermaLink="true">5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6a287e61ddd84871c61ed0b2</guid>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <pubDate>Sun, 12 Jul 2026 21:13:50 GMT</pubDate>
 =======
       <pubDate>Sun, 12 Jul 2026 20:56:08 GMT</pubDate>
 >>>>>>> 3e67bfd (feat: implement patreon feed support)
+=======
+      <pubDate>Sun, 12 Jul 2026 21:17:01 GMT</pubDate>
+>>>>>>> b92a8a2 (feat: add support for authenticated Patreon v2 API)
       <category>Anúncio</category>
     </item>
     <item>
@@ -120,10 +140,14 @@
       <link>https://www.paralives.com/news/patch-notes-013</link>
       <guid isPermaLink="true">5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6a244968418d931011b51422</guid>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <pubDate>Sun, 12 Jul 2026 21:13:50 GMT</pubDate>
 =======
       <pubDate>Sun, 12 Jul 2026 20:56:08 GMT</pubDate>
 >>>>>>> 3e67bfd (feat: implement patreon feed support)
+=======
+      <pubDate>Sun, 12 Jul 2026 21:17:01 GMT</pubDate>
+>>>>>>> b92a8a2 (feat: add support for authenticated Patreon v2 API)
       <category>Patch Note</category>
     </item>
     <item>
@@ -132,10 +156,14 @@
       <link>https://www.paralives.com/news/tune-into-wholesome-direct-june-6th-for-a-fun-announcement</link>
       <guid isPermaLink="true">5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6a23042ef7468554c98b0f09</guid>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <pubDate>Sun, 12 Jul 2026 21:13:50 GMT</pubDate>
 =======
       <pubDate>Sun, 12 Jul 2026 20:56:08 GMT</pubDate>
 >>>>>>> 3e67bfd (feat: implement patreon feed support)
+=======
+      <pubDate>Sun, 12 Jul 2026 21:17:01 GMT</pubDate>
+>>>>>>> b92a8a2 (feat: add support for authenticated Patreon v2 API)
       <category>Notícia</category>
     </item>
     <item>
@@ -160,10 +188,14 @@
       <link>https://www.paralives.com/news/known-issues-june-3rd-2026</link>
       <guid isPermaLink="true">5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6a207f9c862f4d4f5b63fc66</guid>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <pubDate>Sun, 12 Jul 2026 21:13:50 GMT</pubDate>
 =======
       <pubDate>Sun, 12 Jul 2026 20:56:08 GMT</pubDate>
 >>>>>>> 3e67bfd (feat: implement patreon feed support)
+=======
+      <pubDate>Sun, 12 Jul 2026 21:17:01 GMT</pubDate>
+>>>>>>> b92a8a2 (feat: add support for authenticated Patreon v2 API)
       <category>Known Issue</category>
       <enclosure url="https://images.squarespace-cdn.com/content/v1/5d1a3dd178b4ad0001997321/43c8c917-a23c-4a6f-817f-41e312896089/5.png?format=1000w" type="image/png"/>
     </item>
@@ -173,10 +205,14 @@
       <link>https://www.paralives.com/news/steam-workshop</link>
       <guid isPermaLink="true">5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6a2051449a0799075e89bcde</guid>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <pubDate>Sun, 12 Jul 2026 21:13:50 GMT</pubDate>
 =======
       <pubDate>Sun, 12 Jul 2026 20:56:08 GMT</pubDate>
 >>>>>>> 3e67bfd (feat: implement patreon feed support)
+=======
+      <pubDate>Sun, 12 Jul 2026 21:17:01 GMT</pubDate>
+>>>>>>> b92a8a2 (feat: add support for authenticated Patreon v2 API)
       <category>Notícia</category>
       <enclosure url="https://images.squarespace-cdn.com/content/v1/5d1a3dd178b4ad0001997321/05f923d7-71ad-44bf-bf6c-f816992a8551/Steam+Workshop+Square+%281%29.png?format=1000w" type="image/png"/>
     </item>
@@ -186,10 +222,14 @@
       <link>https://www.paralives.com/news/patch-notes-012</link>
       <guid isPermaLink="true">5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6a19eb54aae5a831ab1f2c72</guid>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <pubDate>Sun, 12 Jul 2026 21:13:50 GMT</pubDate>
 =======
       <pubDate>Sun, 12 Jul 2026 20:56:08 GMT</pubDate>
 >>>>>>> 3e67bfd (feat: implement patreon feed support)
+=======
+      <pubDate>Sun, 12 Jul 2026 21:17:01 GMT</pubDate>
+>>>>>>> b92a8a2 (feat: add support for authenticated Patreon v2 API)
       <category>Patch Note</category>
     </item>
     <item>
@@ -207,10 +247,14 @@
       <link>https://www.paralives.com/news/paralives-x-house-flipper-2-bundle</link>
       <guid isPermaLink="true">5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6a15bd1887465b354b304d5e</guid>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <pubDate>Sun, 12 Jul 2026 21:13:50 GMT</pubDate>
 =======
       <pubDate>Sun, 12 Jul 2026 20:56:08 GMT</pubDate>
 >>>>>>> 3e67bfd (feat: implement patreon feed support)
+=======
+      <pubDate>Sun, 12 Jul 2026 21:17:01 GMT</pubDate>
+>>>>>>> b92a8a2 (feat: add support for authenticated Patreon v2 API)
       <category>Anúncio</category>
       <enclosure url="https://images.squarespace-cdn.com/content/v1/5d1a3dd178b4ad0001997321/d2560a36-9d04-4458-ae47-270d3a9a3557/hero_capsule.jpg?format=1000w" type="image/jpeg"/>
     </item>
@@ -220,10 +264,14 @@
       <link>https://www.paralives.com/news/how-to-report-a-bug</link>
       <guid isPermaLink="true">5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6a15bc4fba6ba43fd453f05c</guid>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <pubDate>Sun, 12 Jul 2026 21:13:50 GMT</pubDate>
 =======
       <pubDate>Sun, 12 Jul 2026 20:56:08 GMT</pubDate>
 >>>>>>> 3e67bfd (feat: implement patreon feed support)
+=======
+      <pubDate>Sun, 12 Jul 2026 21:17:01 GMT</pubDate>
+>>>>>>> b92a8a2 (feat: add support for authenticated Patreon v2 API)
       <category>Notícia</category>
     </item>
   </channel>
