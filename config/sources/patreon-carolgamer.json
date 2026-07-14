@@ -7,14 +7,14 @@
   "outputFile": "patreon-carolgamer.xml",
   "feedMeta": {
     "title": "Carol Gamer — Patreon (pt-br)",
-    "description": "Publicações públicas do Patreon da Carol Gamer. Packs, Sims, Lotes, Poses e mais para The Sims 4.",
+    "description": "Publicações do Patreon da Carol Gamer (públicas e exclusivas para apoiadores). Packs, Sims, Lotes, Poses e mais.",
     "link": "https://www.patreon.com/carolslimagamer",
     "language": "pt-br",
     "feedUrl": "https://carolslima.github.io/game-rss/patreon-carolgamer.xml",
     "generator": "Game RSS Multi-Source Generator"
   },
   "history": {
-    "maxPosts": 200
+    "maxPosts": 300
   },
   "fetch": {
     "timeoutMs": 30000,
@@ -28,6 +28,6 @@
   },
   "options": {
     "campaignId": "8543779",
-    "maxPages": 10
+    "maxPages": 15
   }
 }
