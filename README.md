@@ -320,10 +320,14 @@ git push -u origin main
 | `DISCORD_WEBHOOK_CAROLGAMER` | Webhook URL do canal Carol Gamer |
 | `DISCORD_WEBHOOK_PATREON` | Webhook URL do canal Patreon Carol |
 | `PATREON_ACCESS_TOKEN` | Creator's Access Token (p/ posts privados) |
+| `PATREON_REFRESH_TOKEN` | Creator's Refresh Token (p/ renovação automática) |
+| `PATREON_CLIENT_ID` | Client ID (p/ renovação automática) |
+| `PATREON_CLIENT_SECRET` | Client Secret (p/ renovação automática) |
 
 > A autenticação da API KRAFTON (`namespace` e `game`) é resolvida automaticamente via auto-descoberta — **não requer secrets**.
 > 
-> O token do Patreon é opcional: sem ele, o adaptador funciona em modo público (apenas posts livres).
+> Tokens do Patreon: apenas `PATREON_ACCESS_TOKEN` é obrigatório para posts privados.
+> Os 3 de refresh são opcionais — quando presentes, o token é renovado automaticamente ao expirar.
 
 ---
 
