@@ -1,16 +1,16 @@
 {
-  "id": "ea-thesims",
-  "name": "The Sims",
+  "id": "the-sims-4",
+  "name": "The Sims 4",
   "publisher": "EA",
-  "adapter": "ea-thesims",
+  "adapter": "the-sims-4",
   "enabled": true,
-  "outputFile": "thesims.xml",
+  "outputFile": "the-sims-4.xml",
   "feedMeta": {
-    "title": "The Sims — Notícias (pt-br)",
-    "description": "Últimas notícias e atualizações do The Sims. Inclui anúncios, atualizações, eventos e mais.",
-    "link": "https://www.ea.com/pt-br/games/the-sims/news",
+    "title": "The Sims 4 — Notícias (pt-br)",
+    "description": "Últimas notícias e atualizações do The Sims 4. Inclui anúncios, atualizações, eventos e mais.",
+    "link": "https://www.ea.com/pt-br/games/the-sims/the-sims-4/news",
     "language": "pt-br",
-    "feedUrl": "https://carolslima.github.io/game-rss/thesims.xml",
+    "feedUrl": "https://carolslima.github.io/game-rss/the-sims-4.xml",
     "generator": "Game RSS Multi-Source Generator"
   },
   "history": {
@@ -27,7 +27,7 @@
     "username": "Notícias - The Sims"
   },
   "options": {
-    "newsUrl": "https://www.ea.com/pt-br/games/the-sims/news",
+    "newsUrl": "https://www.ea.com/pt-br/games/the-sims/the-sims-4/news",
     "steamFallbackUrl": "https://store.steampowered.com/feeds/news/app/1222670/?l=brazilian",
     "fetchHeaders": {
       "User-Agent": "GameRSS-Agent/1.0",

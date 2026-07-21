@@ -1,0 +1,44 @@
+{
+  "id": "the-sims-5",
+  "name": "The Sims 5",
+  "publisher": "EA",
+  "adapter": "the-sims-5",
+  "enabled": true,
+  "outputFile": "the-sims-5.xml",
+  "feedMeta": {
+    "title": "The Sims 5 — Notícias (pt-br)",
+    "description": "Últimas notícias e atualizações do The Sims 5. Inclui anúncios, atualizações, eventos e mais.",
+    "link": "https://www.ea.com/pt-br/games/the-sims/the-sims-5/news",
+    "language": "pt-br",
+    "feedUrl": "https://carolslima.github.io/game-rss/the-sims-5.xml",
+    "generator": "Game RSS Multi-Source Generator"
+  },
+  "history": {
+    "maxPosts": 200
+  },
+  "fetch": {
+    "timeoutMs": 10000,
+    "maxRetries": 1,
+    "retryBaseDelayMs": 1000
+  },
+  "discord": {
+    "webhookSecretName": "DISCORD_WEBHOOK_SIMS",
+    "color": 2201331,
+    "username": "Notícias - The Sims"
+  },
+  "options": {
+    "newsUrl": "https://www.ea.com/pt-br/games/the-sims/the-sims-5/news",
+    "steamFallbackUrl": "https://store.steampowered.com/feeds/news/app/1222670/?l=brazilian",
+    "fetchHeaders": {
+      "User-Agent": "GameRSS-Agent/1.0",
+      "Accept-Language": "pt-BR,pt;q=0.9",
+      "Accept": "text/html,application/xhtml+xml"
+    },
+    "categoryLabels": {
+      "news": "Notícia",
+      "update": "Atualização",
+      "announcement": "Anúncio",
+      "event": "Evento"
+    }
+  }
+}

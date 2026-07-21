@@ -13,7 +13,8 @@
 | Jogo | Publisher | Feed RSS | Idioma | Fonte |
 |------|-----------|----------|--------|-------|
 | **inZOI** | KRAFTON | [`inzoi.xml`](https://carolslima.github.io/game-rss/inzoi.xml) | 🇧🇷 pt-br | API oficial (`api-foc.krafton.com`) |
-| **The Sims** | EA | [`thesims.xml`](https://carolslima.github.io/game-rss/thesims.xml) | 🇧🇷 pt-br | Site oficial (`ea.com/pt-br`) |
+| **The Sims 4** | EA | [`the-sims-4.xml`](https://carolslima.github.io/game-rss/the-sims-4.xml) | 🇧🇷 pt-br | Site oficial (`ea.com/pt-br`) |
+| **The Sims 5** | EA | [`the-sims-5.xml`](https://carolslima.github.io/game-rss/the-sims-5.xml) | 🇧🇷 pt-br | Site oficial (`ea.com/pt-br`) — aguardando lançamento |
 | **Paralives** | Paralives Studio | [`paralives.xml`](https://carolslima.github.io/game-rss/paralives.xml) | 🇧🇷 pt-br | Site oficial + tradução automática |
 | **Carol Gamer** | Blog | [`carolgamer.xml`](https://carolslima.github.io/game-rss/carolgamer.xml) | 🇧🇷 pt-br | RSS Blogger (`carolgamer.com`) |
 | **Carol Gamer (Patreon)** | Patreon | [`patreon-carolgamer.xml`](https://carolslima.github.io/game-rss/patreon-carolgamer.xml) | 🇧🇷 pt-br | API pública do Patreon |
@@ -49,7 +50,8 @@ Cron (30min) / Manual / Push
   orchestrator.js
         │
         ├─→ inZOI              → API KRAFTON (HAL+JSON, auto-descoberta)  → inzoi.xml
-        ├─→ The Sims           → ea.com/pt-br (extração JSON do HTML)     → thesims.xml
+        ├─→ The Sims 4         → ea.com/pt-br (extração JSON do HTML)     → the-sims-4.xml
+        ├─→ The Sims 5         → ea.com/pt-br (extração JSON do HTML)     → the-sims-5.xml
         ├─→ Paralives          → paralives.com/news (Squarespace RSS)     → paralives.xml
         ├─→ Carol Gamer        → RSS Blogger (100% pt-br)                 → carolgamer.xml
         └─→ Carol Gamer (Pat)  → API Patreon (pública ou autenticada)     → patreon-carolgamer.xml
@@ -92,7 +94,7 @@ Zero configuração manual. Fallback no config JSON se o site estiver offline.
 
 ### The Sims (EA)
 
-O site `ea.com/pt-br/games/the-sims/news` (Next.js) tem os artigos em JSON embutido
+O site `ea.com/pt-br/games/the-sims/the-sims-4/news` (Next.js) tem os artigos em JSON embutido
 no HTML. O adaptador extrai com regex. Títulos e resumos em **português brasileiro**.
 Fallback para Steam RSS se a extração falhar.
 
@@ -172,11 +174,11 @@ Adicionar como secret `PATREON_ACCESS_TOKEN` no GitHub.
 
 | Fonte | Adaptador de exemplo | Usado por |
 |-------|---------------------|-----------|
-| Steam RSS | `steam-rss.js` (parser) | The Sims (fallback) |
+| Steam RSS | `steam-rss.js` (parser) | The Sims 4 (fallback) |
 | Squarespace RSS | `paralives.js` (parser) | Paralives |
 | Blogger RSS | `carolgamer.js` (parser) | Carol Gamer |
 | API REST/HAL+JSON | `krafton-inzoi.js` (custom) | inZOI (KRAFTON) |
-| Site com JSON embutido | `ea-thesims.js` (custom) | The Sims (EA) |
+| Site com JSON embutido | `the-sims-4.js`, `the-sims-5.js` (custom) | The Sims 4 e The Sims 5 (EA) |
 | API Patreon (pública ou OAuth) | `patreon-carolgamer.js` (custom) | Carol Gamer (Patreon) |
 
 ---
@@ -232,7 +234,8 @@ game-rss/
 │   └── deploy-pages.yml      # CD: deploy public/ → GitHub Pages
 ├── config/sources/            # Config JSON por jogo
 │   ├── krafton-inzoi.json
-│   ├── ea-thesims.json
+│   ├── the-sims-4.json
+│   ├── the-sims-5.json
 │   ├── paralives.json
 │   ├── carolgamer.json
 │   └── patreon-carolgamer.json
@@ -247,20 +250,23 @@ game-rss/
 │   └── source-adapters/
 │       ├── steam-rss.js       # Parser compartilhado de RSS Steam
 │       ├── krafton-inzoi.js   # API KRAFTON HAL+JSON
-│       ├── ea-thesims.js     # EA pt-br (extração JSON do HTML)
+│       ├── the-sims-4.js     # EA pt-br — The Sims 4 (extração JSON do HTML + Steam fallback)
+│       ├── the-sims-5.js     # EA pt-br — The Sims 5 (pré-lançamento, sem Steam fallback)
 │       ├── paralives.js       # Squarespace RSS → NormalizedPost
 │       ├── carolgamer.js      # Blogger RSS → NormalizedPost
 │       └── patreon-carolgamer.js # Patreon API → NormalizedPost
 ├── data/                      # Histórico por jogo (versionado no git)
 │   ├── krafton-inzoi.json
-│   ├── ea-thesims.json
+│   ├── the-sims-4.json
+│   ├── the-sims-5.json
 │   ├── paralives.json
 │   ├── carolgamer.json
 │   └── patreon-carolgamer.json
 ├── public/                    # Servido via GitHub Pages
 │   ├── index.html             # Listagem dos feeds
 │   ├── inzoi.xml
-│   ├── thesims.xml
+│   ├── the-sims-4.xml
+│   ├── the-sims-5.xml
 │   ├── paralives.xml
 │   ├── carolgamer.xml
 │   └── patreon-carolgamer.xml
