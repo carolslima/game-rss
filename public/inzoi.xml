@@ -5,7 +5,7 @@
     <description>Últimas notícias do inZOI. Inclui patch notes, anúncios, novos itens e mais.</description>
     <link>https://playinzoi.com/pt-br/news</link>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 21 Jul 2026 02:03:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 05:34:03 GMT</lastBuildDate>
     <generator>Game RSS Multi-Source Generator</generator>
     <image>
       <url>https://playinzoi.com/favicon.ico</url>
@@ -13,6 +13,15 @@
       <link>https://playinzoi.com</link>
     </image>
     <atom:link href="https://carolslima.github.io/game-rss/inzoi.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Aviso - Manutenção do Canvas</title>
+      <description>[Anúncio] Aviso - Manutenção do Canvas — 25 visualizações</description>
+      <link>https://playinzoi.com/pt-br/news/10530</link>
+      <guid isPermaLink="true">https://playinzoi.com/pt-br/news/10530</guid>
+      <pubDate>Tue, 21 Jul 2026 03:00:00 GMT</pubDate>
+      <category>Anúncio</category>
+      <enclosure url="https://wstatic-prod-boc.krafton.com/common/content/news/20260721/FfBK3p0L.png" type="image/png"/>
+    </item>
     <item>
       <title>[v0.9.5] Detalhes do Hotfix</title>
       <description>[Patch Note] [v0.9.5] Detalhes do Hotfix — 226 visualizações</description>
