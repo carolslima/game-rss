@@ -1,5 +1,17 @@
 [
   {
+    "id": "5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6a5fd8e9d9c37d15e95cb10c",
+    "title": "Nossa equipe está recrutando!",
+    "description": "Paralives Studio est à la recherche de 2 profils séniors pour compléter son équipe.&nbsp; 🔹 Développeur/Développeuse de jeux sénior (Unity) 🔹 Concepteur/Conceptrice de jeux sénior (Game Designer) Ces profils doivent être basés à Montréal et maîtriser le français, langue utilisée pour la communication interne.&nbsp; ➡️ Rendez-vous sur paralives.com/jobs pour plus d'informations!",
+    "category": "news",
+    "categoryLabel": "Notícia",
+    "pubDate": "Tue, 21 Jul 2026 20:39:50 +0000",
+    "thumbnail": "https://images.squarespace-cdn.com/content/v1/5d1a3dd178b4ad0001997321/ff858dd3-70e0-47c8-98eb-74ec177ab66b/Official+Paralives+Game+Steam+Page+%28Instagram+Post%29+%282%29.png?format=1000w",
+    "link": "https://www.paralives.com/news/our-team-is-recruiting",
+    "guid": "5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6a5fd8e9d9c37d15e95cb10c",
+    "addedAt": "2026-07-21T20:42:19.027Z"
+  },
+  {
     "id": "5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6a592dbfb85fb70f2d971983",
     "title": "O patch 0.1.6 já está disponível!",
     "description": "Paralives Patch Notes 0.1.6 Novos dias de férias reformulados: Os jogadores agora iniciam um novo trabalho com dias de férias, podendo acumular dias de férias enquanto trabalham e solicitar folgas ou licenças remuneradas por telefone. Isso também varia dependendo do Narrador escolhido. Animações de cadeiras longas: Novas animações foram adicionadas para Paras que se sentam e se levantam de cadeiras longas. Problemas de renderização de espelho: Pa...",
