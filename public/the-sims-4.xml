@@ -5,9 +5,18 @@
     <description>Últimas notícias e atualizações do The Sims 4. Inclui anúncios, atualizações, eventos e mais.</description>
     <link>https://www.ea.com/pt-br/games/the-sims/the-sims-4/news</link>
     <language>pt-br</language>
-    <lastBuildDate>Thu, 23 Jul 2026 13:41:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 15:51:27 GMT</lastBuildDate>
     <generator>Game RSS Multi-Source Generator</generator>
     <atom:link href="https://carolslima.github.io/game-rss/the-sims-4.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Guia Oficial Completo do Plumrobert Sobre o Discord do The Sims</title>
+      <description>Introdução NãoOficial Oficial às Peripécias no Discord do The Sims 4</description>
+      <link>https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/plumroberts-official-guide-to-the-sims-discord</link>
+      <guid isPermaLink="true">https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/plumroberts-official-guide-to-the-sims-discord</guid>
+      <pubDate>Thu, 23 Jul 2026 04:00:00 GMT</pubDate>
+      <category>Atualização</category>
+      <enclosure url="https://drop-assets.ea.com/images/4McuVoZfFQTWmE0Rq20Inl/23ba10490f77f20b90cf13b02203a32f/ts4-plumrobert-article-asset-1.png?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5" type="image/png"/>
+    </item>
     <item>
       <title>Opções de Salvamento, Otimização de Memória, Conteúdo Gratuito e Mais</title>
       <description>Notas de atualização de The Sims 4 de 21 de julho de 2026: Salvamento automático, impulso de memória, conteúdo gratuito do Criar um Sim e correções</description>
@@ -1798,15 +1807,6 @@
       <pubDate>Tue, 01 Nov 2022 17:00:00 GMT</pubDate>
       <category>Atualização</category>
       <enclosure url="https://drop-assets.ea.com/images/10oMvRnYXtSbwb4je77Jpe/85669f18b749c7ea017750ff7287aae4/BLUE_-_GENERAL_INFORMATION__1_.jpg?im=AspectCrop=(16,9),xPosition=0.4973958333333333,yPosition=0.5" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>PERGUNTAS FREQUENTES SOBRE A BEHIND THE SIMS™ SUMMIT</title>
-      <description>PERGUNTAS FREQUENTES SOBRE A BEHIND THE SIMS™ SUMMIT</description>
-      <link>https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/behind-the-sims-summit-f-a-q</link>
-      <guid isPermaLink="true">https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/behind-the-sims-summit-f-a-q</guid>
-      <pubDate>Tue, 18 Oct 2022 17:30:00 GMT</pubDate>
-      <category>Notícia</category>
-      <enclosure url="https://drop-assets.ea.com/images/6Ms8KKXaYAaupWuA8nEwm1/eca5bd19c4aef778f93bc965d6dded2e/ts4-play-sims-for-free-new-plumbob.png?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5" type="image/png"/>
     </item>
   </channel>
 </rss>

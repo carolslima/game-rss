@@ -1,5 +1,17 @@
 [
   {
+    "id": "plumroberts-official-guide-to-the-sims-discord",
+    "title": "Guia Oficial Completo do Plumrobert Sobre o Discord do The Sims",
+    "description": "Introdução NãoOficial Oficial às Peripécias no Discord do The Sims 4",
+    "category": "update",
+    "categoryLabel": "Atualização",
+    "pubDate": "2026-07-23T00:00:00.000-04:00",
+    "thumbnail": "https://drop-assets.ea.com/images/4McuVoZfFQTWmE0Rq20Inl/23ba10490f77f20b90cf13b02203a32f/ts4-plumrobert-article-asset-1.png?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5",
+    "link": "https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/plumroberts-official-guide-to-the-sims-discord",
+    "guid": "https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/plumroberts-official-guide-to-the-sims-discord",
+    "addedAt": "2026-07-23T15:51:27.445Z"
+  },
+  {
     "id": "update-7-21-2026",
     "title": "Opções de Salvamento, Otimização de Memória, Conteúdo Gratuito e Mais",
     "description": "Notas de atualização de The Sims 4 de 21 de julho de 2026: Salvamento automático, impulso de memória, conteúdo gratuito do Criar um Sim e correções\n",
@@ -2385,18 +2397,6 @@
     "thumbnail": "https://drop-assets.ea.com/images/10oMvRnYXtSbwb4je77Jpe/85669f18b749c7ea017750ff7287aae4/BLUE_-_GENERAL_INFORMATION__1_.jpg?im=AspectCrop=(16,9),xPosition=0.4973958333333333,yPosition=0.5",
     "link": "https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/update-11-01-2022",
     "guid": "https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/update-11-01-2022",
-    "addedAt": "2026-07-21T22:02:11.729Z"
-  },
-  {
-    "id": "behind-the-sims-summit-f-a-q",
-    "title": "PERGUNTAS FREQUENTES SOBRE A BEHIND THE SIMS™ SUMMIT",
-    "description": "PERGUNTAS FREQUENTES SOBRE A BEHIND THE SIMS™ SUMMIT",
-    "category": "news",
-    "categoryLabel": "Notícia",
-    "pubDate": "2022-10-18T10:30:00.000-07:00",
-    "thumbnail": "https://drop-assets.ea.com/images/6Ms8KKXaYAaupWuA8nEwm1/eca5bd19c4aef778f93bc965d6dded2e/ts4-play-sims-for-free-new-plumbob.png?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5",
-    "link": "https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/behind-the-sims-summit-f-a-q",
-    "guid": "https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/behind-the-sims-summit-f-a-q",
     "addedAt": "2026-07-21T22:02:11.729Z"
   }
 ]
