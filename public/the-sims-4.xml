@@ -5,7 +5,7 @@
     <description>Últimas notícias e atualizações do The Sims 4. Inclui anúncios, atualizações, eventos e mais.</description>
     <link>https://www.ea.com/pt-br/games/the-sims/the-sims-4/news</link>
     <language>pt-br</language>
-    <lastBuildDate>Thu, 23 Jul 2026 20:09:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 21:34:25 GMT</lastBuildDate>
     <generator>Game RSS Multi-Source Generator</generator>
     <atom:link href="https://carolslima.github.io/game-rss/the-sims-4.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -1035,6 +1035,15 @@
       <enclosure url="https://drop-assets.ea.com/images/10oMvRnYXtSbwb4je77Jpe/85669f18b749c7ea017750ff7287aae4/BLUE_-_GENERAL_INFORMATION__1_.jpg?im=AspectCrop=(16,9),xPosition=0.4973958333333333,yPosition=0.5" type="image/jpeg"/>
     </item>
     <item>
+      <title>Quem Criou os Lotes de Paixão à Vista</title>
+      <description>Você Faz o The Sims com Lotes Criados por Fritosaurio, Shikiuv e RusticSims</description>
+      <link>https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/the-sims-4-lovestruck-creator-builds</link>
+      <guid isPermaLink="true">https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/the-sims-4-lovestruck-creator-builds</guid>
+      <pubDate>Tue, 06 Aug 2024 17:00:00 GMT</pubDate>
+      <category>Notícia</category>
+      <enclosure url="https://drop-assets.ea.com/images/JSyQJchAwF4SlUxn6RyLo/1bd847da6be44f62378630fb15289818/ts4-ymts-ep-16-asset-2.png?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5" type="image/png"/>
+    </item>
+    <item>
       <title>Atualização 29/07/2024</title>
       <description>Correções de Família e Alerta Piscante para Consoles</description>
       <link>https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/update-7-29-2024</link>
@@ -1798,15 +1807,6 @@
       <pubDate>Wed, 02 Nov 2022 17:00:00 GMT</pubDate>
       <category>Notícia</category>
       <enclosure url="https://drop-assets.ea.com/images/2XPYwMZZh8kk3Dira42rGg/315804a991753b519932951758504733/TS4_SP36_OFFICIAL_SCREENS_01_003_1050x590.png?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5" type="image/png"/>
-    </item>
-    <item>
-      <title>Atualização: 01/11/2022</title>
-      <description>Preparativos para Tons Pastel e Bazar</description>
-      <link>https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/update-11-01-2022</link>
-      <guid isPermaLink="true">https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/update-11-01-2022</guid>
-      <pubDate>Tue, 01 Nov 2022 17:00:00 GMT</pubDate>
-      <category>Atualização</category>
-      <enclosure url="https://drop-assets.ea.com/images/10oMvRnYXtSbwb4je77Jpe/85669f18b749c7ea017750ff7287aae4/BLUE_-_GENERAL_INFORMATION__1_.jpg?im=AspectCrop=(16,9),xPosition=0.4973958333333333,yPosition=0.5" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
