@@ -5,9 +5,18 @@
     <description>Últimas notícias e atualizações do The Sims 4. Inclui anúncios, atualizações, eventos e mais.</description>
     <link>https://www.ea.com/pt-br/games/the-sims/the-sims-4/news</link>
     <language>pt-br</language>
-    <lastBuildDate>Mon, 27 Jul 2026 13:25:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 15:58:08 GMT</lastBuildDate>
     <generator>Game RSS Multi-Source Generator</generator>
     <atom:link href="https://carolslima.github.io/game-rss/the-sims-4.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Why Nardvillain Turns The Sims into a Horror Playground</title>
+      <description>Nardvillain has become the expert at making Sims…less comfortable. We finally asked him one simple question: why? This was his response.</description>
+      <link>https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/why-nardvillain-turns-the-sims-into-a-horror-playground</link>
+      <guid isPermaLink="true">https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/why-nardvillain-turns-the-sims-into-a-horror-playground</guid>
+      <pubDate>Mon, 27 Jul 2026 04:00:00 GMT</pubDate>
+      <category>Notícia</category>
+      <enclosure url="https://drop-assets.ea.com/images/2ZMSQpgfAUocE4jOJrgBvA/db40cf0a405cca47f7a8953113f12a40/ts4-horror-playground-article-asset-1.png?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5" type="image/png"/>
+    </item>
     <item>
       <title>Guia Oficial Completo do Plumrobert Sobre o Discord do The Sims</title>
       <description>Introdução NãoOficial Oficial às Peripécias no Discord do The Sims 4</description>
@@ -1798,15 +1807,6 @@
       <pubDate>Tue, 08 Nov 2022 17:00:00 GMT</pubDate>
       <category>Notícia</category>
       <enclosure url="https://drop-assets.ea.com/images/7e0cGlq695W9kD8sZutuDu/11cf7d1b0071ab5d451c59f149b43363/TS4_SDX18_DEESIMS_HAIR_COLLAB_04_001.png?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5" type="image/png"/>
-    </item>
-    <item>
-      <title>Plumbella contribui com The Sims™ 4 no Kit Tons Pastel</title>
-      <description>Você faz o The Sims™, com Plumbella</description>
-      <link>https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/plumbella-partners-on-the-pastel-pop-kit-for-the-sims-4</link>
-      <guid isPermaLink="true">https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/plumbella-partners-on-the-pastel-pop-kit-for-the-sims-4</guid>
-      <pubDate>Wed, 02 Nov 2022 17:00:00 GMT</pubDate>
-      <category>Notícia</category>
-      <enclosure url="https://drop-assets.ea.com/images/2XPYwMZZh8kk3Dira42rGg/315804a991753b519932951758504733/TS4_SP36_OFFICIAL_SCREENS_01_003_1050x590.png?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5" type="image/png"/>
     </item>
   </channel>
 </rss>
