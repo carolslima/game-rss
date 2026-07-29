@@ -1,5 +1,17 @@
 [
   {
+    "id": "top-5-most-downloaded-maker-packs-spotlight",
+    "title": "Celebrating the Top 5 Most Downloaded Maker Packs",
+    "description": " ",
+    "category": "announcement",
+    "categoryLabel": "Anúncio",
+    "pubDate": "2026-07-29T08:00:00.000-07:00",
+    "thumbnail": "https://drop-assets.ea.com/images/220cFjfneCAr8cyVO6XTH6/903d88862f06bf4a9145ee1eaff40000/Top_5_Maker_Pack_Thumbnail__1_.png?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5",
+    "link": "https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/top-5-most-downloaded-maker-packs-spotlight",
+    "guid": "https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/top-5-most-downloaded-maker-packs-spotlight",
+    "addedAt": "2026-07-29T21:26:05.789Z"
+  },
+  {
     "id": "why-nardvillain-turns-the-sims-into-a-horror-playground",
     "title": "Why Nardvillain Turns The Sims into a Horror Playground",
     "description": "Nardvillain has become the expert at making Sims…less comfortable. We finally asked him one simple question: why? This was his response.\n",
@@ -2385,18 +2397,6 @@
     "thumbnail": "https://drop-assets.ea.com/images/1bKlekGY4zEB5e2Vx1cRpg/2698deb6383049f8facb17b4807a6f2a/Overwolf_logo_updated_may_21_23.jpg?im=AspectCrop=(16,9),xPosition=0.46875,yPosition=0.48333333333333334",
     "link": "https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/overwolf-launches-new-custom-content-hub",
     "guid": "https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/overwolf-launches-new-custom-content-hub",
-    "addedAt": "2026-07-21T22:02:11.729Z"
-  },
-  {
-    "id": "new-bantu-knots-and-two-strand-twist-hairstyles-for-the-sims-4",
-    "title": "Novos penteados para o The Sims 4: coquinhos e tranças torcidas",
-    "description": "Você Faz o The Sims, com DeeSims",
-    "category": "news",
-    "categoryLabel": "Notícia",
-    "pubDate": "2022-11-08T10:00:00.000-07:00",
-    "thumbnail": "https://drop-assets.ea.com/images/7e0cGlq695W9kD8sZutuDu/11cf7d1b0071ab5d451c59f149b43363/TS4_SDX18_DEESIMS_HAIR_COLLAB_04_001.png?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5",
-    "link": "https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/new-bantu-knots-and-two-strand-twist-hairstyles-for-the-sims-4",
-    "guid": "https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/new-bantu-knots-and-two-strand-twist-hairstyles-for-the-sims-4",
     "addedAt": "2026-07-21T22:02:11.729Z"
   }
 ]
