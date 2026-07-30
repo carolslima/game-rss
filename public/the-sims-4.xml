@@ -5,7 +5,7 @@
     <description>Últimas notícias e atualizações do The Sims 4. Inclui anúncios, atualizações, eventos e mais.</description>
     <link>https://www.ea.com/pt-br/games/the-sims/the-sims-4/news</link>
     <language>pt-br</language>
-    <lastBuildDate>Thu, 30 Jul 2026 14:41:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 16:22:54 GMT</lastBuildDate>
     <generator>Game RSS Multi-Source Generator</generator>
     <atom:link href="https://carolslima.github.io/game-rss/the-sims-4.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -16,6 +16,15 @@
       <pubDate>Wed, 29 Jul 2026 15:00:00 GMT</pubDate>
       <category>Anúncio</category>
       <enclosure url="https://drop-assets.ea.com/images/220cFjfneCAr8cyVO6XTH6/903d88862f06bf4a9145ee1eaff40000/Top_5_Maker_Pack_Thumbnail__1_.png?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5" type="image/png"/>
+    </item>
+    <item>
+      <title> How SpringSims Uses His Creator Platform To Give Back</title>
+      <description>We sat down with SpringSims to talk about his philanthropic work, how The Sims community has influenced it, and ways they can get involved.</description>
+      <link>https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/springsims-sims-hope-haiti-fundraising</link>
+      <guid isPermaLink="true">https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/springsims-sims-hope-haiti-fundraising</guid>
+      <pubDate>Wed, 29 Jul 2026 04:00:00 GMT</pubDate>
+      <category>Anúncio</category>
+      <enclosure url="https://drop-assets.ea.com/images/6pXqKRZVreIV7uPwXnqFzs/3f544f0d7a2c57a85a4b28427e88bd56/ts4-spring-sims-asset-1.png?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5" type="image/png"/>
     </item>
     <item>
       <title>Why Nardvillain Turns The Sims into a Horror Playground</title>
@@ -1798,15 +1807,6 @@
       <pubDate>Tue, 15 Nov 2022 16:00:00 GMT</pubDate>
       <category>Notícia</category>
       <enclosure url="https://drop-assets.ea.com/images/2oRK0QRYvjQvHvEqkL7foM/62b1ea37151fa3d816acabee7f40d9e7/SparkSomething_Plumbobs.jpg?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>OVERWOLF LANÇA NOVO CENTRO DE CONTEÚDO PERSONALIZADO PARA THE SIMS™ 4</title>
-      <description>Guia para iniciantes do repositório CurseForge para novos conteúdos gerados por fãs</description>
-      <link>https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/overwolf-launches-new-custom-content-hub</link>
-      <guid isPermaLink="true">https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/overwolf-launches-new-custom-content-hub</guid>
-      <pubDate>Mon, 14 Nov 2022 16:00:00 GMT</pubDate>
-      <category>Notícia</category>
-      <enclosure url="https://drop-assets.ea.com/images/1bKlekGY4zEB5e2Vx1cRpg/2698deb6383049f8facb17b4807a6f2a/Overwolf_logo_updated_may_21_23.jpg?im=AspectCrop=(16,9),xPosition=0.46875,yPosition=0.48333333333333334" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
