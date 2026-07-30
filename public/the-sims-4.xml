@@ -5,9 +5,18 @@
     <description>Últimas notícias e atualizações do The Sims 4. Inclui anúncios, atualizações, eventos e mais.</description>
     <link>https://www.ea.com/pt-br/games/the-sims/the-sims-4/news</link>
     <language>pt-br</language>
-    <lastBuildDate>Thu, 30 Jul 2026 22:08:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 23:31:29 GMT</lastBuildDate>
     <generator>Game RSS Multi-Source Generator</generator>
     <atom:link href="https://carolslima.github.io/game-rss/the-sims-4.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How New CAS Starter Sims Expand Cultural Expression in The Sims 4</title>
+      <description>Discover eight new culturally inspired CAS starter Sims and accessories in The Sims 4, created with cultural experts to expand representation in-game.</description>
+      <link>https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/sims-4-cas-starter-sims-cultural-representation</link>
+      <guid isPermaLink="true">https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/sims-4-cas-starter-sims-cultural-representation</guid>
+      <pubDate>Thu, 30 Jul 2026 17:00:00 GMT</pubDate>
+      <category>Notícia</category>
+      <enclosure url="https://drop-assets.ea.com/images/7htnFP0UWGXop1YbpDSxf8/75aabbfd07d2d76a9bd8c3825727f10d/ts4-july-21-patch-notes-asset-1.png?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5" type="image/png"/>
+    </item>
     <item>
       <title>Celebrating the Top 5 Most Downloaded Maker Packs</title>
       <description>Celebrating the Top 5 Most Downloaded Maker Packs</description>
@@ -1798,15 +1807,6 @@
       <pubDate>Wed, 16 Nov 2022 16:00:00 GMT</pubDate>
       <category>Notícia</category>
       <enclosure url="https://drop-assets.ea.com/images/1ALSfESJMSOdyKNo4GUlDb/97a68c28a9fee2ccfe01940b20775138/ts-tile-2022-sims-sessions-with-anitta.jpg?im=AspectCrop=(16,9),xPosition=0.9714285714285714,yPosition=0.43492063492063493" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Espalhe seu Brilho</title>
-      <description>Uma carta de amor ao potencial criativo e o nosso compromisso constante com a galera que cria.</description>
-      <link>https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/spark-something</link>
-      <guid isPermaLink="true">https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/spark-something</guid>
-      <pubDate>Tue, 15 Nov 2022 16:00:00 GMT</pubDate>
-      <category>Notícia</category>
-      <enclosure url="https://drop-assets.ea.com/images/2oRK0QRYvjQvHvEqkL7foM/62b1ea37151fa3d816acabee7f40d9e7/SparkSomething_Plumbobs.jpg?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
