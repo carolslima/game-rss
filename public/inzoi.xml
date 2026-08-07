@@ -5,7 +5,7 @@
     <description>Últimas notícias do inZOI. Inclui patch notes, anúncios, novos itens e mais.</description>
     <link>https://playinzoi.com/pt-br/news</link>
     <language>pt-br</language>
-    <lastBuildDate>Fri, 07 Aug 2026 10:27:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 11:22:07 GMT</lastBuildDate>
     <generator>Game RSS Multi-Source Generator</generator>
     <image>
       <url>https://playinzoi.com/favicon.ico</url>
@@ -13,6 +13,15 @@
       <link>https://playinzoi.com</link>
     </image>
     <atom:link href="https://carolslima.github.io/game-rss/inzoi.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Pesquisa inZOI: conte o que achou das atualizações de carreira & escola]]></title>
+      <description><![CDATA[[Anúncio] Pesquisa inZOI: conte o que achou das atualizações de carreira & escola — 11 visualizações]]></description>
+      <link>https://playinzoi.com/pt-br/news/10877</link>
+      <guid isPermaLink="true">https://playinzoi.com/pt-br/news/10877</guid>
+      <pubDate>Fri, 07 Aug 2026 11:00:00 GMT</pubDate>
+      <category>Anúncio</category>
+      <enclosure url="https://wstatic-prod-boc.krafton.com/common/content/news/20260807/Cc4wCvTj.png" type="image/png"/>
+    </item>
     <item>
       <title>[v0.9.6] Detalhes do Hotfix</title>
       <description>[Patch Note] [v0.9.6] Detalhes do Hotfix — 213 visualizações</description>
