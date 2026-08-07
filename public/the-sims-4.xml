@@ -5,9 +5,18 @@
     <description>Últimas notícias e atualizações do The Sims 4. Inclui anúncios, atualizações, eventos e mais.</description>
     <link>https://www.ea.com/pt-br/games/the-sims/the-sims-4/news</link>
     <language>pt-br</language>
-    <lastBuildDate>Thu, 06 Aug 2026 12:53:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 00:38:09 GMT</lastBuildDate>
     <generator>Game RSS Multi-Source Generator</generator>
     <atom:link href="https://carolslima.github.io/game-rss/the-sims-4.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Atualização de Patch de Agosto</title>
+      <description>Atualização de 06/08/2026</description>
+      <link>https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/update-8-6-2026</link>
+      <guid isPermaLink="true">https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/update-8-6-2026</guid>
+      <pubDate>Tue, 04 Aug 2026 04:00:00 GMT</pubDate>
+      <category>Atualização</category>
+      <enclosure url="https://drop-assets.ea.com/images/10oMvRnYXtSbwb4je77Jpe/85669f18b749c7ea017750ff7287aae4/BLUE_-_GENERAL_INFORMATION__1_.jpg?im=AspectCrop=(16,9),xPosition=0.4973958333333333,yPosition=0.5" type="image/jpeg"/>
+    </item>
     <item>
       <title>How New CAS Starter Sims Expand Cultural Expression in The Sims 4</title>
       <description>Discover eight new culturally inspired CAS starter Sims and accessories in The Sims 4, created with cultural experts to expand representation in-game.</description>
@@ -1798,15 +1807,6 @@
       <pubDate>Tue, 22 Nov 2022 18:00:00 GMT</pubDate>
       <category>Atualização</category>
       <enclosure url="https://drop-assets.ea.com/images/10oMvRnYXtSbwb4je77Jpe/85669f18b749c7ea017750ff7287aae4/BLUE_-_GENERAL_INFORMATION__1_.jpg?im=AspectCrop=(16,9),xPosition=0.4973958333333333,yPosition=0.5" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Reimaginando o Sims Sessions</title>
-      <description>Desmistificando o processo criativo da gravação de músicas em Simlish... com Anitta</description>
-      <link>https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/reimagining-sims-sessions</link>
-      <guid isPermaLink="true">https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/reimagining-sims-sessions</guid>
-      <pubDate>Wed, 16 Nov 2022 16:00:00 GMT</pubDate>
-      <category>Notícia</category>
-      <enclosure url="https://drop-assets.ea.com/images/1ALSfESJMSOdyKNo4GUlDb/97a68c28a9fee2ccfe01940b20775138/ts-tile-2022-sims-sessions-with-anitta.jpg?im=AspectCrop=(16,9),xPosition=0.9714285714285714,yPosition=0.43492063492063493" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
