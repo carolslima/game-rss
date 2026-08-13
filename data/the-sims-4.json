@@ -1,5 +1,17 @@
 [
   {
+    "id": "becoming-a-maker-simspancakes-journey",
+    "title": "Tornando-se Maker: A Jornada de Simspancake",
+    "description": "Simspancake começou a criar conteúdo personalizado para The Sims 4 sem \"nenhuma habilidade\". Agora estreou como integrante do Programa Maker. E esta é a sua história.",
+    "category": "announcement",
+    "categoryLabel": "Anúncio",
+    "pubDate": "2026-08-13T00:00:00.000-04:00",
+    "thumbnail": "https://drop-assets.ea.com/images/2NLD4vWTMWWBMzD0UH3dHp/4c47a6159133a7e016589d1d28a49ff0/ts4-simspancake-article-asset-1.png?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5",
+    "link": "https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/becoming-a-maker-simspancakes-journey",
+    "guid": "https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/becoming-a-maker-simspancakes-journey",
+    "addedAt": "2026-08-13T15:30:06.454Z"
+  },
+  {
     "id": "update-8-6-2026",
     "title": "Atualização de Patch de Agosto",
     "description": "Atualização de 06/08/2026",
@@ -2385,18 +2397,6 @@
     "thumbnail": "https://drop-assets.ea.com/images/4Gd8bwJLkQiZOhABqvxQN1/9ca12a55ac6c01652d819d20e575a3e7/port-of-marriage.png?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5",
     "link": "https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/laundry-list-january-10th-2023",
     "guid": "https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/laundry-list-january-10th-2023",
-    "addedAt": "2026-07-21T22:02:11.729Z"
-  },
-  {
-    "id": "update-11-22-2022",
-    "title": "Atualização: 22/11/2022",
-    "description": "Atualização do Filtro de Linguagem Inadequada na Galeria ",
-    "category": "update",
-    "categoryLabel": "Atualização",
-    "pubDate": "2022-11-22T10:00:00.000-08:00",
-    "thumbnail": "https://drop-assets.ea.com/images/10oMvRnYXtSbwb4je77Jpe/85669f18b749c7ea017750ff7287aae4/BLUE_-_GENERAL_INFORMATION__1_.jpg?im=AspectCrop=(16,9),xPosition=0.4973958333333333,yPosition=0.5",
-    "link": "https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/update-11-22-2022",
-    "guid": "https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/update-11-22-2022",
     "addedAt": "2026-07-21T22:02:11.729Z"
   }
 ]

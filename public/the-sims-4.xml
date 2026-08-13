@@ -5,9 +5,18 @@
     <description>Últimas notícias e atualizações do The Sims 4. Inclui anúncios, atualizações, eventos e mais.</description>
     <link>https://www.ea.com/pt-br/games/the-sims/the-sims-4/news</link>
     <language>pt-br</language>
-    <lastBuildDate>Thu, 13 Aug 2026 14:19:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 15:30:06 GMT</lastBuildDate>
     <generator>Game RSS Multi-Source Generator</generator>
     <atom:link href="https://carolslima.github.io/game-rss/the-sims-4.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Tornando-se Maker: A Jornada de Simspancake</title>
+      <description>Simspancake começou a criar conteúdo personalizado para The Sims 4 sem &quot;nenhuma habilidade&quot;. Agora estreou como integrante do Programa Maker. E esta é a sua história.</description>
+      <link>https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/becoming-a-maker-simspancakes-journey</link>
+      <guid isPermaLink="true">https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/becoming-a-maker-simspancakes-journey</guid>
+      <pubDate>Thu, 13 Aug 2026 04:00:00 GMT</pubDate>
+      <category>Anúncio</category>
+      <enclosure url="https://drop-assets.ea.com/images/2NLD4vWTMWWBMzD0UH3dHp/4c47a6159133a7e016589d1d28a49ff0/ts4-simspancake-article-asset-1.png?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5" type="image/png"/>
+    </item>
     <item>
       <title>Atualização de Patch de Agosto</title>
       <description>Atualização de 06/08/2026</description>
@@ -1798,15 +1807,6 @@
       <pubDate>Tue, 10 Jan 2023 02:00:00 GMT</pubDate>
       <category>Notícia</category>
       <enclosure url="https://drop-assets.ea.com/images/4Gd8bwJLkQiZOhABqvxQN1/9ca12a55ac6c01652d819d20e575a3e7/port-of-marriage.png?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5" type="image/png"/>
-    </item>
-    <item>
-      <title>Atualização: 22/11/2022</title>
-      <description>Atualização do Filtro de Linguagem Inadequada na Galeria</description>
-      <link>https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/update-11-22-2022</link>
-      <guid isPermaLink="true">https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/update-11-22-2022</guid>
-      <pubDate>Tue, 22 Nov 2022 18:00:00 GMT</pubDate>
-      <category>Atualização</category>
-      <enclosure url="https://drop-assets.ea.com/images/10oMvRnYXtSbwb4je77Jpe/85669f18b749c7ea017750ff7287aae4/BLUE_-_GENERAL_INFORMATION__1_.jpg?im=AspectCrop=(16,9),xPosition=0.4973958333333333,yPosition=0.5" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
