@@ -5,9 +5,18 @@
     <description>Últimas notícias e atualizações do The Sims 4. Inclui anúncios, atualizações, eventos e mais.</description>
     <link>https://www.ea.com/pt-br/games/the-sims/the-sims-4/news</link>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 18 Aug 2026 16:57:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 17:25:00 GMT</lastBuildDate>
     <generator>Game RSS Multi-Source Generator</generator>
     <atom:link href="https://carolslima.github.io/game-rss/the-sims-4.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>That’s So Fetch: The Mean Girls and Clueless Capsule Kits Bring Style to The Sims 4</title>
+      <description>New Mean Girls and Clueless Kits are coming to The Sims 4 on August 27, bringing iconic fashion to Create a Sim for nostalgic &apos;90s and Y2K-inspired styles that celebrate the signature looks of two beloved films.</description>
+      <link>https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/sims-4-mean-girls-and-clueless-kits</link>
+      <guid isPermaLink="true">https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/sims-4-mean-girls-and-clueless-kits</guid>
+      <pubDate>Tue, 18 Aug 2026 04:00:00 GMT</pubDate>
+      <category>Notícia</category>
+      <enclosure url="https://drop-assets.ea.com/images/54pDiDGWCVvw8oEGfVd1mh/a235e584f7b6bc1bd4a0ddfb00765221/image1.png?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5" type="image/png"/>
+    </item>
     <item>
       <title>Tornando-se Maker: A Jornada de Simspancake</title>
       <description>Simspancake começou a criar conteúdo personalizado para The Sims 4 sem &quot;nenhuma habilidade&quot;. Agora estreou como integrante do Programa Maker. E esta é a sua história.</description>
@@ -1798,15 +1807,6 @@
       <pubDate>Tue, 17 Jan 2023 17:00:00 GMT</pubDate>
       <category>Atualização</category>
       <enclosure url="https://drop-assets.ea.com/images/10oMvRnYXtSbwb4je77Jpe/85669f18b749c7ea017750ff7287aae4/BLUE_-_GENERAL_INFORMATION__1_.jpg?im=AspectCrop=(16,9),xPosition=0.4973958333333333,yPosition=0.5" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Lista de Tarefas - 10 de Janeiro de 2023</title>
-      <description>Lista de Tarefas</description>
-      <link>https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/laundry-list-january-10th-2023</link>
-      <guid isPermaLink="true">https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/laundry-list-january-10th-2023</guid>
-      <pubDate>Tue, 10 Jan 2023 02:00:00 GMT</pubDate>
-      <category>Notícia</category>
-      <enclosure url="https://drop-assets.ea.com/images/4Gd8bwJLkQiZOhABqvxQN1/9ca12a55ac6c01652d819d20e575a3e7/port-of-marriage.png?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5" type="image/png"/>
     </item>
   </channel>
 </rss>
