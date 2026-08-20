@@ -5,7 +5,7 @@
     <description>Últimas notícias e atualizações do The Sims 4. Inclui anúncios, atualizações, eventos e mais.</description>
     <link>https://www.ea.com/pt-br/games/the-sims/the-sims-4/news</link>
     <language>pt-br</language>
-    <lastBuildDate>Thu, 20 Aug 2026 21:52:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 22:20:39 GMT</lastBuildDate>
     <generator>Game RSS Multi-Source Generator</generator>
     <atom:link href="https://carolslima.github.io/game-rss/the-sims-4.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -1701,6 +1701,15 @@
       <enclosure url="https://drop-assets.ea.com/images/1I1m8OFwai4ylMCfjnSFcw/9068c7bd23f33aede515ce38737515f6/TS4_SP40_OFFICIAL_SCREENS_02_003_16x9.png?im=AspectCrop=(16,9),xPosition=0.05416666666666667,yPosition=0.42962962962962964" type="image/png"/>
     </item>
     <item>
+      <title>Maxis: criando uma experiência de jogo mais inclusiva</title>
+      <description>Phillip Ring, da Produção do The Sims™ 4, fala sobre o aprendizado da Maxis ao desenvolver conteúdo com Diversidade, Equidade e Inclusão.</description>
+      <link>https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/maxis-creating-a-more-inclusive-gaming-experience</link>
+      <guid isPermaLink="true">https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/maxis-creating-a-more-inclusive-gaming-experience</guid>
+      <pubDate>Thu, 13 Apr 2023 04:00:00 GMT</pubDate>
+      <category>Notícia</category>
+      <enclosure url="https://drop-assets.ea.com/images/GRf5AaO3caQ2A96wavb7u/212d6c43e3f647ad9669f7f663883331/phill-gdc-blog-lead-asset.jpg?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5" type="image/jpeg"/>
+    </item>
+    <item>
       <title>Leve-me para casa</title>
       <description>Reivindique seu espaço nesta temporada com quatro Kits novos e uma atualização incrível</description>
       <link>https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/season-one-take-me-home</link>
@@ -1796,15 +1805,6 @@
       <link>https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/update-01-31-2023</link>
       <guid isPermaLink="true">https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/update-01-31-2023</guid>
       <pubDate>Tue, 31 Jan 2023 17:00:00 GMT</pubDate>
-      <category>Atualização</category>
-      <enclosure url="https://drop-assets.ea.com/images/10oMvRnYXtSbwb4je77Jpe/85669f18b749c7ea017750ff7287aae4/BLUE_-_GENERAL_INFORMATION__1_.jpg?im=AspectCrop=(16,9),xPosition=0.4973958333333333,yPosition=0.5" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Atualização: 01/17/2023</title>
-      <description>Ano Novo, Novas Correções!</description>
-      <link>https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/update-01-17-2023</link>
-      <guid isPermaLink="true">https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/update-01-17-2023</guid>
-      <pubDate>Tue, 17 Jan 2023 17:00:00 GMT</pubDate>
       <category>Atualização</category>
       <enclosure url="https://drop-assets.ea.com/images/10oMvRnYXtSbwb4je77Jpe/85669f18b749c7ea017750ff7287aae4/BLUE_-_GENERAL_INFORMATION__1_.jpg?im=AspectCrop=(16,9),xPosition=0.4973958333333333,yPosition=0.5" type="image/jpeg"/>
     </item>
