@@ -1,5 +1,29 @@
 [
   {
+    "id": "5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6a8c8132021ede2a67cd9758",
+    "title": "New Camera Option",
+    "description": "We’ve added new alternative camera control options, you’re welcome 😈",
+    "category": "news",
+    "categoryLabel": "Notícia",
+    "pubDate": "Mon, 24 Aug 2026 17:37:33 +0000",
+    "thumbnail": null,
+    "link": "https://www.paralives.com/news/new-camera-option",
+    "guid": "5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6a8c8132021ede2a67cd9758",
+    "addedAt": "2026-08-24T17:55:55.718Z"
+  },
+  {
+    "id": "5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6a8c7dd80f1abe37471bbd5f",
+    "title": "Patch Notes 0.1.8",
+    "description": "After 0.1.7, which contained a good amount of improvements and bug fixes, we scale things back in order to prioritize optimization and long term development. As mentioned within the public roadmap, we are now moving on to our first big Paralives update! This means patches will be spaced out a bit more than usual as we work our way towards the end of year free expansion which will include exciti...",
+    "category": "patch_note",
+    "categoryLabel": "Patch Note",
+    "pubDate": "Mon, 24 Aug 2026 17:27:09 +0000",
+    "thumbnail": "https://images.squarespace-cdn.com/content/v1/5d1a3dd178b4ad0001997321/e098b2db-cfb9-400f-b2eb-704b56bc2062/Screenshot+2026-08-18+135255.png?format=1000w",
+    "link": "https://www.paralives.com/news/patch-notes-018",
+    "guid": "5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6a8c7dd80f1abe37471bbd5f",
+    "addedAt": "2026-08-24T17:55:55.718Z"
+  },
+  {
     "id": "5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6a7a0b7813fbd64063448b90",
     "title": "Notas do patch 0.1.7 Qualidade de vida",
     "description": "Atualização visual do NewBabies: Nossos Parababies receberam uma atualização bem merecida. Por mais que amemos nossos bebês biblicamente corretos, vimos o feedback e decidimos atualizar seu visual para torná-los mais fofos e menos codificados por Bobby Hill. Atualização de intimidade: Ficar íntimo em Paralives pode ser um pouco complicado às vezes, agora você pode iniciar a intimidade diretamente clicando em uma cama ou em um...",
