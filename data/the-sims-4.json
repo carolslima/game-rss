@@ -1,5 +1,17 @@
 [
   {
+    "id": "690892955941077334",
+    "title": "On Wednesdays, Sims Wear Pink",
+    "description": "Become the most popular Sim with these absolutely iconic looks! MEAN GIRLS CAPSULE KIT Mix and match Y2K styles, get out your Burn Book, and dress like teen royalty with these styles inspired by Mean Girls! Create Your Own Plastics – Bring iconic characters to life or steal their style for your original Sims. Own the halls in preppy skirts, show everyone you’re a COOL mom in a velour track suit, accessorize with a bit of bling, and more. Millennial Mix’n’Match – Make your clique the most styl...",
+    "category": "news",
+    "categoryLabel": "News",
+    "pubDate": "Thu, 27 Aug 2026 21:07:42 +0000",
+    "thumbnail": "https://clan.fastly.steamstatic.com/images/38096876/f42ab72b8a1efea13a04aae7afd8342758db876f.jpg",
+    "link": "https://store.steampowered.com/news/app/1222670/view/690892955941077334",
+    "guid": "https://store.steampowered.com/news/app/1222670/view/690892955941077334",
+    "addedAt": "2026-08-28T02:15:28.542Z"
+  },
+  {
     "id": "706654920914241103",
     "title": "Free Content and New Performance Cache!",
     "description": "Update 8/‌25/‌2026 PC: 1.127.41.1030 / Mac: 1.127.41.1230 Console: 2.38 Sul sul, With this update we are bringing improvements to your Marketplace browsing experience. Previously, Marketplace images were downloaded every time you browsed. Now, they’re cached after the first download, so we’ll only download images that are new or have changed. Along with performance improvements, Create a Sim (CAS) is getting some stylish additions, including new clothing especially designed to celebrate Sims ...",
@@ -2386,17 +2398,5 @@
     "link": "https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/maxis-creating-a-more-inclusive-gaming-experience",
     "guid": "https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/maxis-creating-a-more-inclusive-gaming-experience",
     "addedAt": "2026-08-20T22:20:39.102Z"
-  },
-  {
-    "id": "season-one-take-me-home",
-    "title": "Leve-me para casa",
-    "description": "Reivindique seu espaço nesta temporada com quatro Kits novos e uma atualização incrível",
-    "category": "update",
-    "categoryLabel": "Atualização",
-    "pubDate": "2023-04-11T08:00:00.000-07:00",
-    "thumbnail": "https://drop-assets.ea.com/images/25fumFQxpw3itWk6GZWupw/729b47030efa450248d234281107219d/Sims4_Q1_Wrapper_900x600_V4.jpg?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5",
-    "link": "https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/season-one-take-me-home",
-    "guid": "https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/season-one-take-me-home",
-    "addedAt": "2026-07-21T22:02:11.729Z"
   }
 ]

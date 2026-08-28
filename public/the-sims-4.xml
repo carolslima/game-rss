@@ -5,9 +5,18 @@
     <description>Últimas notícias e atualizações do The Sims 4. Inclui anúncios, atualizações, eventos e mais.</description>
     <link>https://www.ea.com/pt-br/games/the-sims/the-sims-4/news</link>
     <language>pt-br</language>
-    <lastBuildDate>Thu, 27 Aug 2026 18:21:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 02:15:28 GMT</lastBuildDate>
     <generator>Game RSS Multi-Source Generator</generator>
     <atom:link href="https://carolslima.github.io/game-rss/the-sims-4.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>On Wednesdays, Sims Wear Pink</title>
+      <description>Become the most popular Sim with these absolutely iconic looks! MEAN GIRLS CAPSULE KIT Mix and match Y2K styles, get out your Burn Book, and dress like teen royalty with these styles inspired by Mean Girls! Create Your Own Plastics – Bring iconic characters to life or steal their style for your original Sims. Own the halls in preppy skirts, show everyone you’re a COOL mom in a velour track suit, accessorize with a bit of bling, and more. Millennial Mix’n’Match – Make your clique the most styl...</description>
+      <link>https://store.steampowered.com/news/app/1222670/view/690892955941077334</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/1222670/view/690892955941077334</guid>
+      <pubDate>Thu, 27 Aug 2026 21:07:42 GMT</pubDate>
+      <category>News</category>
+      <enclosure url="https://clan.fastly.steamstatic.com/images/38096876/f42ab72b8a1efea13a04aae7afd8342758db876f.jpg" type="image/jpeg"/>
+    </item>
     <item>
       <title>Free Content and New Performance Cache!</title>
       <description>Update 8/‌25/‌2026 PC: 1.127.41.1030 / Mac: 1.127.41.1230 Console: 2.38 Sul sul, With this update we are bringing improvements to your Marketplace browsing experience. Previously, Marketplace images were downloaded every time you browsed. Now, they’re cached after the first download, so we’ll only download images that are new or have changed. Along with performance improvements, Create a Sim (CAS) is getting some stylish additions, including new clothing especially designed to celebrate Sims ...</description>
@@ -255,7 +264,7 @@
       <description>SimSearch is one of the latest improvements to The Gallery, designed to make it easier for Simmers to find the creations they&apos;re looking for. We&apos;ve noticed many players are still searching using single words and keywords. While that works, SimSearch can do much more. With Cross-Language Search and Text-to-Image Search, you can describe what you&apos;re looking for instead of relying on an exact title, hashtag, or creator name. Try searches like: • Big red house • Ghosts • Metal fence • Petite mais...</description>
       <link>https://store.steampowered.com/news/app/1222670/view/698766645034746701</link>
       <guid isPermaLink="true">https://store.steampowered.com/news/app/1222670/view/698766645034746701</guid>
-      <pubDate>Thu, 27 Aug 2026 18:21:50 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 02:15:28 GMT</pubDate>
       <category>News</category>
       <enclosure url="https://clan.akamai.steamstatic.com/images/38096876/842909e4966e700b04a10a54285ce28dfe57f2bc.png" type="image/png"/>
     </item>
@@ -273,7 +282,7 @@
       <description>How fast can you turn The Sims’ most infamous romancer into relationship drama? 😏 We’re kicking off the 0 to Don Speedrun Challenge, and it starts with you picking your favorite version of Don, created by one of our very own Simmers! Then? Break up a marriage. Start a love triangle. Rush a wedding. Cause just enough chaos to earn full Don Status in the fewest in‑game days possible! To join: 👉 Join Discord: https://discord.gg/8DHk5QmK4G 👉Download your favorite Don Lothario from the Gallery ...</description>
       <link>https://store.steampowered.com/news/app/1222670/view/698766645034746167</link>
       <guid isPermaLink="true">https://store.steampowered.com/news/app/1222670/view/698766645034746167</guid>
-      <pubDate>Thu, 27 Aug 2026 18:21:50 GMT</pubDate>
+      <pubDate>Fri, 28 Aug 2026 02:15:28 GMT</pubDate>
       <category>News</category>
       <enclosure url="https://clan.akamai.steamstatic.com/images/38096876/a91eba031e5aeb68c8312f4c2eb1edf9049a9315.png" type="image/png"/>
     </item>
@@ -1797,15 +1806,6 @@
       <pubDate>Thu, 13 Apr 2023 04:00:00 GMT</pubDate>
       <category>Notícia</category>
       <enclosure url="https://drop-assets.ea.com/images/GRf5AaO3caQ2A96wavb7u/212d6c43e3f647ad9669f7f663883331/phill-gdc-blog-lead-asset.jpg?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Leve-me para casa</title>
-      <description>Reivindique seu espaço nesta temporada com quatro Kits novos e uma atualização incrível</description>
-      <link>https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/season-one-take-me-home</link>
-      <guid isPermaLink="true">https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/season-one-take-me-home</guid>
-      <pubDate>Tue, 11 Apr 2023 15:00:00 GMT</pubDate>
-      <category>Atualização</category>
-      <enclosure url="https://drop-assets.ea.com/images/25fumFQxpw3itWk6GZWupw/729b47030efa450248d234281107219d/Sims4_Q1_Wrapper_900x600_V4.jpg?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
