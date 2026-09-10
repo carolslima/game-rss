@@ -5,7 +5,7 @@
     <description>Últimas notícias do inZOI. Inclui patch notes, anúncios, novos itens e mais.</description>
     <link>https://playinzoi.com/pt-br/news</link>
     <language>pt-br</language>
-    <lastBuildDate>Thu, 10 Sep 2026 09:28:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 13:45:11 GMT</lastBuildDate>
     <generator>Game RSS Multi-Source Generator</generator>
     <image>
       <url>https://playinzoi.com/favicon.ico</url>
@@ -13,6 +13,15 @@
       <link>https://playinzoi.com</link>
     </image>
     <atom:link href="https://carolslima.github.io/game-rss/inzoi.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>[v0.10.3] Detalhes do Hotfix</title>
+      <description>[Patch Note] [v0.10.3] Detalhes do Hotfix — 312 visualizações</description>
+      <link>https://playinzoi.com/pt-br/news/11088</link>
+      <guid isPermaLink="true">https://playinzoi.com/pt-br/news/11088</guid>
+      <pubDate>Thu, 10 Sep 2026 11:03:36 GMT</pubDate>
+      <category>Patch Note</category>
+      <enclosure url="https://wstatic-prod-boc.krafton.com/common/content/news/20260910/mTca2kyK.png" type="image/png"/>
+    </item>
     <item>
       <title>[v0.10.2] Detalhes do Hotfix</title>
       <description>[Patch Note] [v0.10.2] Detalhes do Hotfix — 361 visualizações</description>
