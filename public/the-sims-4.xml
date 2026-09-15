@@ -5,9 +5,18 @@
     <description>Últimas notícias e atualizações do The Sims 4. Inclui anúncios, atualizações, eventos e mais.</description>
     <link>https://www.ea.com/pt-br/games/the-sims/the-sims-4/news</link>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 15 Sep 2026 20:45:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:21:31 GMT</lastBuildDate>
     <generator>Game RSS Multi-Source Generator</generator>
     <atom:link href="https://carolslima.github.io/game-rss/the-sims-4.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[Share Your CAS & Build/Buy Feedback: Choose Your Favorites]]></title>
+      <description>Sul Sul Simmers 👋 We’d love to hear what’s been on your mind lately! We’re running a quick survey to better understand what kinds of CAS and BB items you’re most interested in seeing more of in the future. Whether it’s more clutter for lived-in spaces, furniture styles you feel are missing, build pieces you wish you had more of, we want to know what stands out to you. 📝 Take the quick survey here ⬅️ (Just a heads-up: This survey is purely for general feedback and doesn&apos;t confirm or promise ...</description>
+      <link>https://store.steampowered.com/news/app/1222670/view/684139458559213577</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/1222670/view/684139458559213577</guid>
+      <pubDate>Tue, 15 Sep 2026 23:19:09 GMT</pubDate>
+      <category>Feedback</category>
+      <enclosure url="https://clan.fastly.steamstatic.com/images/38096876/1aa9e3034f6ab33cbfc9f83bf9ba0caafcef9421.png" type="image/png"/>
+    </item>
     <item>
       <title>Laundry List: Upcoming Fixes and Features - Sept 15, 2026</title>
       <description><![CDATA[TL;DR: Improved Autonomy: Focus on improving Sims' autonomous behavior, including Sims maintaining eye contact during chats, using bathroom sinks instead of kitchen sinks, and low-energy Sims no longer waking up to do random tasks. Bug Fixes & Stability: 95+ bug fixes including 10 significant crash and stability improvements, top community issues from the EA Forums like Married Sims reverting to partners, and Sims getting stuck in interaction queues. Relationship Balancing: Tuning to Lovestru...]]></description>
@@ -273,7 +282,7 @@
       <description>SimSearch is one of the latest improvements to The Gallery, designed to make it easier for Simmers to find the creations they&apos;re looking for. We&apos;ve noticed many players are still searching using single words and keywords. While that works, SimSearch can do much more. With Cross-Language Search and Text-to-Image Search, you can describe what you&apos;re looking for instead of relying on an exact title, hashtag, or creator name. Try searches like: • Big red house • Ghosts • Metal fence • Petite mais...</description>
       <link>https://store.steampowered.com/news/app/1222670/view/698766645034746701</link>
       <guid isPermaLink="true">https://store.steampowered.com/news/app/1222670/view/698766645034746701</guid>
-      <pubDate>Tue, 15 Sep 2026 20:45:11 GMT</pubDate>
+      <pubDate>Tue, 15 Sep 2026 23:21:31 GMT</pubDate>
       <category>News</category>
       <enclosure url="https://clan.akamai.steamstatic.com/images/38096876/842909e4966e700b04a10a54285ce28dfe57f2bc.png" type="image/png"/>
     </item>
@@ -291,7 +300,7 @@
       <description>How fast can you turn The Sims’ most infamous romancer into relationship drama? 😏 We’re kicking off the 0 to Don Speedrun Challenge, and it starts with you picking your favorite version of Don, created by one of our very own Simmers! Then? Break up a marriage. Start a love triangle. Rush a wedding. Cause just enough chaos to earn full Don Status in the fewest in‑game days possible! To join: 👉 Join Discord: https://discord.gg/8DHk5QmK4G 👉Download your favorite Don Lothario from the Gallery ...</description>
       <link>https://store.steampowered.com/news/app/1222670/view/698766645034746167</link>
       <guid isPermaLink="true">https://store.steampowered.com/news/app/1222670/view/698766645034746167</guid>
-      <pubDate>Tue, 15 Sep 2026 20:45:11 GMT</pubDate>
+      <pubDate>Tue, 15 Sep 2026 23:21:31 GMT</pubDate>
       <category>News</category>
       <enclosure url="https://clan.akamai.steamstatic.com/images/38096876/a91eba031e5aeb68c8312f4c2eb1edf9049a9315.png" type="image/png"/>
     </item>
@@ -1797,15 +1806,6 @@
       <pubDate>Tue, 18 Apr 2023 17:00:00 GMT</pubDate>
       <category>Atualização</category>
       <enclosure url="https://drop-assets.ea.com/images/10oMvRnYXtSbwb4je77Jpe/85669f18b749c7ea017750ff7287aae4/BLUE_-_GENERAL_INFORMATION__1_.jpg?im=AspectCrop=(16,9),xPosition=0.4973958333333333,yPosition=0.5" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Redescubra suas raízes com The Sims™ 4</title>
-      <description>The Sims™ 4 Kits Estufa Paradisíaca e Tesouros do Porão</description>
-      <link>https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/rediscover-your-roots-with-the-sims-4</link>
-      <guid isPermaLink="true">https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/rediscover-your-roots-with-the-sims-4</guid>
-      <pubDate>Tue, 18 Apr 2023 15:00:00 GMT</pubDate>
-      <category>Notícia</category>
-      <enclosure url="https://drop-assets.ea.com/images/1I1m8OFwai4ylMCfjnSFcw/9068c7bd23f33aede515ce38737515f6/TS4_SP40_OFFICIAL_SCREENS_02_003_16x9.png?im=AspectCrop=(16,9),xPosition=0.05416666666666667,yPosition=0.42962962962962964" type="image/png"/>
     </item>
   </channel>
 </rss>
