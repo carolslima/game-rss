@@ -5,9 +5,18 @@
     <description>Últimas notícias e atualizações do The Sims 4. Inclui anúncios, atualizações, eventos e mais.</description>
     <link>https://www.ea.com/pt-br/games/the-sims/the-sims-4/news</link>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 15 Sep 2026 13:44:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 17:52:24 GMT</lastBuildDate>
     <generator>Game RSS Multi-Source Generator</generator>
     <atom:link href="https://carolslima.github.io/game-rss/the-sims-4.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Laundry List: Upcoming Fixes and Features - Sept 15, 2026</title>
+      <description><![CDATA[TL;DR: Improved Autonomy: Focus on improving Sims' autonomous behavior, including Sims maintaining eye contact during chats, using bathroom sinks instead of kitchen sinks, and low-energy Sims no longer waking up to do random tasks. Bug Fixes & Stability: 95+ bug fixes including 10 significant crash and stability improvements, top community issues from the EA Forums like Married Sims reverting to partners, and Sims getting stuck in interaction queues. Relationship Balancing: Tuning to Lovestru...]]></description>
+      <link>https://store.steampowered.com/news/app/1222670/view/703279123228788061</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/1222670/view/703279123228788061</guid>
+      <pubDate>Tue, 15 Sep 2026 15:02:02 GMT</pubDate>
+      <category>Update</category>
+      <enclosure url="https://clan.fastly.steamstatic.com/images/38096876/cb3b4c8eaa1feea5fff05e0e14e389e37a45f957.png" type="image/png"/>
+    </item>
     <item>
       <title>On Wednesdays, Sims Wear Pink</title>
       <description>Become the most popular Sim with these absolutely iconic looks! MEAN GIRLS CAPSULE KIT Mix and match Y2K styles, get out your Burn Book, and dress like teen royalty with these styles inspired by Mean Girls! Create Your Own Plastics – Bring iconic characters to life or steal their style for your original Sims. Own the halls in preppy skirts, show everyone you’re a COOL mom in a velour track suit, accessorize with a bit of bling, and more. Millennial Mix’n’Match – Make your clique the most styl...</description>
@@ -264,7 +273,7 @@
       <description>SimSearch is one of the latest improvements to The Gallery, designed to make it easier for Simmers to find the creations they&apos;re looking for. We&apos;ve noticed many players are still searching using single words and keywords. While that works, SimSearch can do much more. With Cross-Language Search and Text-to-Image Search, you can describe what you&apos;re looking for instead of relying on an exact title, hashtag, or creator name. Try searches like: • Big red house • Ghosts • Metal fence • Petite mais...</description>
       <link>https://store.steampowered.com/news/app/1222670/view/698766645034746701</link>
       <guid isPermaLink="true">https://store.steampowered.com/news/app/1222670/view/698766645034746701</guid>
-      <pubDate>Tue, 15 Sep 2026 13:44:39 GMT</pubDate>
+      <pubDate>Tue, 15 Sep 2026 17:52:24 GMT</pubDate>
       <category>News</category>
       <enclosure url="https://clan.akamai.steamstatic.com/images/38096876/842909e4966e700b04a10a54285ce28dfe57f2bc.png" type="image/png"/>
     </item>
@@ -282,7 +291,7 @@
       <description>How fast can you turn The Sims’ most infamous romancer into relationship drama? 😏 We’re kicking off the 0 to Don Speedrun Challenge, and it starts with you picking your favorite version of Don, created by one of our very own Simmers! Then? Break up a marriage. Start a love triangle. Rush a wedding. Cause just enough chaos to earn full Don Status in the fewest in‑game days possible! To join: 👉 Join Discord: https://discord.gg/8DHk5QmK4G 👉Download your favorite Don Lothario from the Gallery ...</description>
       <link>https://store.steampowered.com/news/app/1222670/view/698766645034746167</link>
       <guid isPermaLink="true">https://store.steampowered.com/news/app/1222670/view/698766645034746167</guid>
-      <pubDate>Tue, 15 Sep 2026 13:44:39 GMT</pubDate>
+      <pubDate>Tue, 15 Sep 2026 17:52:24 GMT</pubDate>
       <category>News</category>
       <enclosure url="https://clan.akamai.steamstatic.com/images/38096876/a91eba031e5aeb68c8312f4c2eb1edf9049a9315.png" type="image/png"/>
     </item>
@@ -1797,15 +1806,6 @@
       <pubDate>Tue, 18 Apr 2023 15:00:00 GMT</pubDate>
       <category>Notícia</category>
       <enclosure url="https://drop-assets.ea.com/images/1I1m8OFwai4ylMCfjnSFcw/9068c7bd23f33aede515ce38737515f6/TS4_SP40_OFFICIAL_SCREENS_02_003_16x9.png?im=AspectCrop=(16,9),xPosition=0.05416666666666667,yPosition=0.42962962962962964" type="image/png"/>
-    </item>
-    <item>
-      <title>Maxis: criando uma experiência de jogo mais inclusiva</title>
-      <description>Phillip Ring, da Produção do The Sims™ 4, fala sobre o aprendizado da Maxis ao desenvolver conteúdo com Diversidade, Equidade e Inclusão.</description>
-      <link>https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/maxis-creating-a-more-inclusive-gaming-experience</link>
-      <guid isPermaLink="true">https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/maxis-creating-a-more-inclusive-gaming-experience</guid>
-      <pubDate>Thu, 13 Apr 2023 04:00:00 GMT</pubDate>
-      <category>Notícia</category>
-      <enclosure url="https://drop-assets.ea.com/images/GRf5AaO3caQ2A96wavb7u/212d6c43e3f647ad9669f7f663883331/phill-gdc-blog-lead-asset.jpg?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
