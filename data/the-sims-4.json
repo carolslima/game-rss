@@ -1,5 +1,17 @@
 [
   {
+    "id": "684139458559214458",
+    "title": "Sul Sul, Smarter Sims!",
+    "description": "Update 9/22/2026 PC: 1.128.90.1030 / Mac: 1.128.90.1230 Console: Version 2.39 Sul Sul, Simmers! This month, we’re delivering a hefty Quality of Life (QoL) update, influenced directly by your feedback in our Discord Dev Q&As, Reddit, and via top-voted issues on EA Forums. Our biggest focus for this patch is all about Sim Autonomy. We’ve made dozens of tweaks to help your Sims act more logically and feel more realistic. Whether it's making eye contact during conversations, or washing their hand...",
+    "category": "news",
+    "categoryLabel": "News",
+    "pubDate": "Tue, 22 Sep 2026 17:23:13 +0000",
+    "thumbnail": "https://clan.fastly.steamstatic.com/images/38096876/4dbcb53079108b7a90034f6ea2d1892c787fc7cb.png",
+    "link": "https://store.steampowered.com/news/app/1222670/view/684139458559214458",
+    "guid": "https://store.steampowered.com/news/app/1222670/view/684139458559214458",
+    "addedAt": "2026-09-22T17:51:53.533Z"
+  },
+  {
     "id": "684139458559213577",
     "title": "Share Your CAS & Build/Buy Feedback: Choose Your Favorites",
     "description": "Sul Sul Simmers 👋 We’d love to hear what’s been on your mind lately! We’re running a quick survey to better understand what kinds of CAS and BB items you’re most interested in seeing more of in the future. Whether it’s more clutter for lived-in spaces, furniture styles you feel are missing, build pieces you wish you had more of, we want to know what stands out to you. 📝 Take the quick survey here ⬅️ (Just a heads-up: This survey is purely for general feedback and doesn't confirm or promise ...",
@@ -2385,18 +2397,6 @@
     "thumbnail": "https://drop-assets.ea.com/images/10oMvRnYXtSbwb4je77Jpe/85669f18b749c7ea017750ff7287aae4/BLUE_-_GENERAL_INFORMATION__1_.jpg?im=AspectCrop=(16,9),xPosition=0.4973958333333333,yPosition=0.5",
     "link": "https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/update-04-26-2023",
     "guid": "https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/update-04-26-2023",
-    "addedAt": "2026-07-21T22:02:11.729Z"
-  },
-  {
-    "id": "update-04-18-2023",
-    "title": "Atualização: 18/04/2023",
-    "description": "Bebês de colo se esticando e chiando!? Que horror! ",
-    "category": "update",
-    "categoryLabel": "Atualização",
-    "pubDate": "2023-04-18T10:00:00.000-07:00",
-    "thumbnail": "https://drop-assets.ea.com/images/10oMvRnYXtSbwb4je77Jpe/85669f18b749c7ea017750ff7287aae4/BLUE_-_GENERAL_INFORMATION__1_.jpg?im=AspectCrop=(16,9),xPosition=0.4973958333333333,yPosition=0.5",
-    "link": "https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/update-04-18-2023",
-    "guid": "https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/update-04-18-2023",
     "addedAt": "2026-07-21T22:02:11.729Z"
   }
 ]
