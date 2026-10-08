@@ -1,5 +1,17 @@
 [
   {
+    "id": "5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6ac7ca55aec47527e4fa1242",
+    "title": "Notas do patch 0.1.9",
+    "description": "O Patch 0.1.9 continua a tendência do 0.1.8 de consistir principalmente em correções de bugs e pequenas adições, à medida que continuamos focando em novos recursos e conteúdo para nossa próxima grande atualização. Este patch também inclui uma atualização para o Unity 6, a versão mais recente do mecanismo de jogo no qual o Paralives é executado. Para os jogadores, neste momento, isso significa uma ligeira melhoria na taxa de quadros. Para nós, desenvolvedores, isso significa mais ferramentas para desenvolver novos recursos...",
+    "category": "patch_note",
+    "categoryLabel": "Patch Note",
+    "pubDate": "Thu, 08 Oct 2026 16:52:33 +0000",
+    "thumbnail": "https://images.squarespace-cdn.com/content/v1/5d1a3dd178b4ad0001997321/f321a4b5-5f02-461e-8f6b-1d71f4d83d4e/ExtraClasses.gif?format=1000w",
+    "link": "https://www.paralives.com/news/patch-notes-019",
+    "guid": "5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6ac7ca55aec47527e4fa1242",
+    "addedAt": "2026-10-08T19:36:29.595Z"
+  },
+  {
     "id": "5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6ac53eed01bc191d1518172e",
     "title": "What are the Paradevs Working On?",
     "description": "Here’s what some members of the team have been working on! Stay tuned for gameplay improvements and feature sneak peeks 👀",
