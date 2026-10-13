@@ -1,5 +1,17 @@
 [
   {
+    "id": "5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6ace6d2474f1a04a32b841e1",
+    "title": "How to Change Patterns!",
+    "description": "Adding patterns to your clothing can give it that extra sparkle it was missing 👚✨",
+    "category": "news",
+    "categoryLabel": "Notícia",
+    "pubDate": "Tue, 13 Oct 2026 17:42:40 +0000",
+    "thumbnail": null,
+    "link": "https://www.paralives.com/news/how-to-change-patterns",
+    "guid": "5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6ace6d2474f1a04a32b841e1",
+    "addedAt": "2026-10-13T21:41:13.737Z"
+  },
+  {
     "id": "5d1a3dd178b4ad0001997321:5eb5bbecdc11ff51f3e8c339:6ac7ca55aec47527e4fa1242",
     "title": "Notas do patch 0.1.9",
     "description": "O Patch 0.1.9 continua a tendência do 0.1.8 de consistir principalmente em correções de bugs e pequenas adições, à medida que continuamos focando em novos recursos e conteúdo para nossa próxima grande atualização. Este patch também inclui uma atualização para o Unity 6, a versão mais recente do mecanismo de jogo no qual o Paralives é executado. Para os jogadores, neste momento, isso significa uma ligeira melhoria na taxa de quadros. Para nós, desenvolvedores, isso significa mais ferramentas para desenvolver novos recursos...",
