@@ -1,5 +1,17 @@
 [
   {
+    "id": "675134795999610464",
+    "title": "Laundry List: Upcoming Bug Fixes - October 20, 2026",
+    "description": "TL;DR: The Sims 4 October 27 Base Game update focuses on Food, Dining, and Drinks, delivering over 150 bug fixes, tuning adjustments, and brand-new features to improve your in-game culinary experience. Resolved endless loading during lot placement, fixed white screens loading rental saves, restored ability to order food/drinks while bartenders multitask, and freezing fixes for Sims. We are incredibly excited to share that the ~10 crash fixes from our September update resulted in a notable dec...",
+    "category": "update",
+    "categoryLabel": "Update",
+    "pubDate": "Tue, 20 Oct 2026 15:16:50 +0000",
+    "thumbnail": "https://clan.fastly.steamstatic.com/images/38096876/10fd293b2152dc9e24484ed0dd4e7b5036340600.png",
+    "link": "https://store.steampowered.com/news/app/1222670/view/675134795999610464",
+    "guid": "https://store.steampowered.com/news/app/1222670/view/675134795999610464",
+    "addedAt": "2026-10-20T16:10:42.800Z"
+  },
+  {
     "id": "684139458559214458",
     "title": "Sul Sul, Smarter Sims!",
     "description": "Update 9/22/2026 PC: 1.128.90.1030 / Mac: 1.128.90.1230 Console: Version 2.39 Sul Sul, Simmers! This month, we’re delivering a hefty Quality of Life (QoL) update, influenced directly by your feedback in our Discord Dev Q&As, Reddit, and via top-voted issues on EA Forums. Our biggest focus for this patch is all about Sim Autonomy. We’ve made dozens of tweaks to help your Sims act more logically and feel more realistic. Whether it's making eye contact during conversations, or washing their hand...",
@@ -2385,18 +2397,6 @@
     "thumbnail": "https://drop-assets.ea.com/images/5nV8qrxFTV6PkoSFcyMTVs/a90706d40e302415858d8c85fee07241/Sims4_Kits_CommunityVotedKitsSurvey_16x9_v2_pt-BR.jpg?im=AspectCrop=(16,9),xPosition=0.5057291666666667,yPosition=0.3",
     "link": "https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/cast-your-vote-kit-theme",
     "guid": "https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/cast-your-vote-kit-theme",
-    "addedAt": "2026-07-21T22:02:11.729Z"
-  },
-  {
-    "id": "update-04-26-2023",
-    "title": "Atualização: 26/04/2023",
-    "description": "Ajustando os dentes moles!",
-    "category": "update",
-    "categoryLabel": "Atualização",
-    "pubDate": "2023-04-26T10:00:00.000-07:00",
-    "thumbnail": "https://drop-assets.ea.com/images/10oMvRnYXtSbwb4je77Jpe/85669f18b749c7ea017750ff7287aae4/BLUE_-_GENERAL_INFORMATION__1_.jpg?im=AspectCrop=(16,9),xPosition=0.4973958333333333,yPosition=0.5",
-    "link": "https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/update-04-26-2023",
-    "guid": "https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/update-04-26-2023",
     "addedAt": "2026-07-21T22:02:11.729Z"
   }
 ]

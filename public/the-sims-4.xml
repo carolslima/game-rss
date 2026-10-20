@@ -5,9 +5,18 @@
     <description>Últimas notícias e atualizações do The Sims 4. Inclui anúncios, atualizações, eventos e mais.</description>
     <link>https://www.ea.com/pt-br/games/the-sims/the-sims-4/news</link>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 20 Oct 2026 11:55:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 16:10:42 GMT</lastBuildDate>
     <generator>Game RSS Multi-Source Generator</generator>
     <atom:link href="https://carolslima.github.io/game-rss/the-sims-4.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Laundry List: Upcoming Bug Fixes - October 20, 2026</title>
+      <description>TL;DR: The Sims 4 October 27 Base Game update focuses on Food, Dining, and Drinks, delivering over 150 bug fixes, tuning adjustments, and brand-new features to improve your in-game culinary experience. Resolved endless loading during lot placement, fixed white screens loading rental saves, restored ability to order food/drinks while bartenders multitask, and freezing fixes for Sims. We are incredibly excited to share that the ~10 crash fixes from our September update resulted in a notable dec...</description>
+      <link>https://store.steampowered.com/news/app/1222670/view/675134795999610464</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/1222670/view/675134795999610464</guid>
+      <pubDate>Tue, 20 Oct 2026 15:16:50 GMT</pubDate>
+      <category>Update</category>
+      <enclosure url="https://clan.fastly.steamstatic.com/images/38096876/10fd293b2152dc9e24484ed0dd4e7b5036340600.png" type="image/png"/>
+    </item>
     <item>
       <title>Sul Sul, Smarter Sims!</title>
       <description><![CDATA[Update 9/22/2026 PC: 1.128.90.1030 / Mac: 1.128.90.1230 Console: Version 2.39 Sul Sul, Simmers! This month, we’re delivering a hefty Quality of Life (QoL) update, influenced directly by your feedback in our Discord Dev Q&As, Reddit, and via top-voted issues on EA Forums. Our biggest focus for this patch is all about Sim Autonomy. We’ve made dozens of tweaks to help your Sims act more logically and feel more realistic. Whether it's making eye contact during conversations, or washing their hand...]]></description>
@@ -291,7 +300,7 @@
       <description>SimSearch is one of the latest improvements to The Gallery, designed to make it easier for Simmers to find the creations they&apos;re looking for. We&apos;ve noticed many players are still searching using single words and keywords. While that works, SimSearch can do much more. With Cross-Language Search and Text-to-Image Search, you can describe what you&apos;re looking for instead of relying on an exact title, hashtag, or creator name. Try searches like: • Big red house • Ghosts • Metal fence • Petite mais...</description>
       <link>https://store.steampowered.com/news/app/1222670/view/698766645034746701</link>
       <guid isPermaLink="true">https://store.steampowered.com/news/app/1222670/view/698766645034746701</guid>
-      <pubDate>Tue, 20 Oct 2026 11:55:11 GMT</pubDate>
+      <pubDate>Tue, 20 Oct 2026 16:10:42 GMT</pubDate>
       <category>News</category>
       <enclosure url="https://clan.akamai.steamstatic.com/images/38096876/842909e4966e700b04a10a54285ce28dfe57f2bc.png" type="image/png"/>
     </item>
@@ -309,7 +318,7 @@
       <description>How fast can you turn The Sims’ most infamous romancer into relationship drama? 😏 We’re kicking off the 0 to Don Speedrun Challenge, and it starts with you picking your favorite version of Don, created by one of our very own Simmers! Then? Break up a marriage. Start a love triangle. Rush a wedding. Cause just enough chaos to earn full Don Status in the fewest in‑game days possible! To join: 👉 Join Discord: https://discord.gg/8DHk5QmK4G 👉Download your favorite Don Lothario from the Gallery ...</description>
       <link>https://store.steampowered.com/news/app/1222670/view/698766645034746167</link>
       <guid isPermaLink="true">https://store.steampowered.com/news/app/1222670/view/698766645034746167</guid>
-      <pubDate>Tue, 20 Oct 2026 11:55:11 GMT</pubDate>
+      <pubDate>Tue, 20 Oct 2026 16:10:42 GMT</pubDate>
       <category>News</category>
       <enclosure url="https://clan.akamai.steamstatic.com/images/38096876/a91eba031e5aeb68c8312f4c2eb1edf9049a9315.png" type="image/png"/>
     </item>
@@ -1797,15 +1806,6 @@
       <pubDate>Thu, 11 May 2023 15:00:00 GMT</pubDate>
       <category>Notícia</category>
       <enclosure url="https://drop-assets.ea.com/images/5nV8qrxFTV6PkoSFcyMTVs/a90706d40e302415858d8c85fee07241/Sims4_Kits_CommunityVotedKitsSurvey_16x9_v2_pt-BR.jpg?im=AspectCrop=(16,9),xPosition=0.5057291666666667,yPosition=0.3" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>Atualização: 26/04/2023</title>
-      <description>Ajustando os dentes moles!</description>
-      <link>https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/update-04-26-2023</link>
-      <guid isPermaLink="true">https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/update-04-26-2023</guid>
-      <pubDate>Wed, 26 Apr 2023 17:00:00 GMT</pubDate>
-      <category>Atualização</category>
-      <enclosure url="https://drop-assets.ea.com/images/10oMvRnYXtSbwb4je77Jpe/85669f18b749c7ea017750ff7287aae4/BLUE_-_GENERAL_INFORMATION__1_.jpg?im=AspectCrop=(16,9),xPosition=0.4973958333333333,yPosition=0.5" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
