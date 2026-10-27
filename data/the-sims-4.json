@@ -1,5 +1,17 @@
 [
   {
+    "id": "695401628729089289",
+    "title": "Order Up! The Next Quality of Life Update is here!",
+    "description": "Update: 10/27/2026 PC: 1.129.39.1030 / Mac: 1.129.39.1230 Console: 2.40 TL;DR:● Free Elder Content: New Create a Sim hairstyles/outfits, vintage Build Mode items, four Styled Looks, and a Styled Room. ● New Body Customization Toggles: Game Options and Sim self-interactions to enable or disable muscle and weight changes globally or per Sim. ● Culinary & Food Overhaul: Moved \"Open\" to the front of fridge menus, balanced food/drink pricing & calories, expanded Family Recipes to 375+ dishes, impr...",
+    "category": "update",
+    "categoryLabel": "Update",
+    "pubDate": "Tue, 27 Oct 2026 17:30:29 +0000",
+    "thumbnail": "https://clan.fastly.steamstatic.com/images/38096876/4dbcb53079108b7a90034f6ea2d1892c787fc7cb.png",
+    "link": "https://store.steampowered.com/news/app/1222670/view/695401628729089289",
+    "guid": "https://store.steampowered.com/news/app/1222670/view/695401628729089289",
+    "addedAt": "2026-10-27T20:11:36.517Z"
+  },
+  {
     "id": "675134795999610464",
     "title": "Laundry List: Upcoming Bug Fixes - October 20, 2026",
     "description": "TL;DR: The Sims 4 October 27 Base Game update focuses on Food, Dining, and Drinks, delivering over 150 bug fixes, tuning adjustments, and brand-new features to improve your in-game culinary experience. Resolved endless loading during lot placement, fixed white screens loading rental saves, restored ability to order food/drinks while bartenders multitask, and freezing fixes for Sims. We are incredibly excited to share that the ~10 crash fixes from our September update resulted in a notable dec...",
@@ -2385,18 +2397,6 @@
     "thumbnail": "https://drop-assets.ea.com/images/4Gd8bwJLkQiZOhABqvxQN1/9ca12a55ac6c01652d819d20e575a3e7/port-of-marriage.png?im=AspectCrop=(16,9),xPosition=0.5,yPosition=0.5",
     "link": "https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/laundry-list-may-25th-2023",
     "guid": "https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/laundry-list-may-25th-2023",
-    "addedAt": "2026-07-21T22:02:11.729Z"
-  },
-  {
-    "id": "cast-your-vote-kit-theme",
-    "title": "Vote em Dois Kits Futuros!",
-    "description": "Queremos ouvir você!",
-    "category": "news",
-    "categoryLabel": "Notícia",
-    "pubDate": "2023-05-11T08:00:00.000-07:00",
-    "thumbnail": "https://drop-assets.ea.com/images/5nV8qrxFTV6PkoSFcyMTVs/a90706d40e302415858d8c85fee07241/Sims4_Kits_CommunityVotedKitsSurvey_16x9_v2_pt-BR.jpg?im=AspectCrop=(16,9),xPosition=0.5057291666666667,yPosition=0.3",
-    "link": "https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/cast-your-vote-kit-theme",
-    "guid": "https://www.ea.com/pt-br/games/the-sims/the-sims-4/news/cast-your-vote-kit-theme",
     "addedAt": "2026-07-21T22:02:11.729Z"
   }
 ]
